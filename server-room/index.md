@@ -7,7 +7,7 @@ description: AI 방법론에 대하여 — 위임하지 말고, 답에 도달하
 
 # 서버실의 불이 꺼지는 순간
 
-<small>[English version](./en/) · 2026-07</small>
+<small>[nonasking](https://github.com/nonasking) · 2026-07 · [English version](./en/)</small>
 
 AI에 관한 흔한 경고는 이렇게 시작한다. 서버실의 불이 꺼지는 순간, AI로 도약한 걸음은 모두 제자리로 돌아간다. 전기가 끊기고, API가 죽고, 구독이 만료되면 우리는 AI 이전의 자신으로 돌아가야 하는데, 그 자신이 이미 퇴화해 있다면 어떻게 할 것인가.
 

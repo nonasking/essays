@@ -45,6 +45,12 @@ main {
   padding: 4.5rem 1.4rem 3rem;
 }
 
+/* 한글은 전각 글자라 같은 폭에서 글줄이 더 짧게 느껴짐 — 한 뼘 넓힌다 */
+html:lang(ko) main,
+html:lang(ko) footer {
+  max-width: 45rem;
+}
+
 h1 {
   font-size: 1.85rem;
   font-weight: 700;

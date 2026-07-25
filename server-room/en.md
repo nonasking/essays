@@ -7,7 +7,7 @@ description: "On AI methodology: don't delegate to AI — absorb its way of arri
 
 # The Moment the Server Room Goes Dark
 
-<small>[한국어판](../) · 2026-07</small>
+<small>[nonasking](https://github.com/nonasking) · 2026-07 · [한국어판](../)</small>
 
 The usual warning about AI starts like this: the moment the lights go out in the server room, every step we leaped forward with AI snaps back to where we started. The power fails, the API dies, the subscription lapses — and we have to go back to being our pre-AI selves. What if that self has already atrophied?
 
