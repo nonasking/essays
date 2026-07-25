@@ -2,6 +2,7 @@
 title: 서버실의 불이 꺼지는 순간
 permalink: /server-room/
 lang: ko
+description: AI 방법론에 대하여 — 위임하지 말고, 답에 도달하는 방식을 흡수하라.
 ---
 
 # 서버실의 불이 꺼지는 순간

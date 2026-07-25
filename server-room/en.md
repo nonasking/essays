@@ -2,6 +2,7 @@
 title: The Moment the Server Room Goes Dark
 permalink: /server-room/en/
 lang: en
+description: "On AI methodology: don't delegate to AI — absorb its way of arriving at answers."
 ---
 
 # The Moment the Server Room Goes Dark
