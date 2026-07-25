@@ -96,11 +96,11 @@ Those who delegate to AI come to work only as well as AI does — and cannot wor
 - Kosmyna, N. et al. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. arXiv:2506.08872.
 - Gerlich, M. (2025). AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking. Societies, 15(1), 6.
 - Sparrow, B., Liu, J., & Wegner, D. M. (2011). Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips. Science, 333, 776–778.
-- Javadi, A.-H. et al. (2017). Hippocampal and prefrontal processing of network topology to simulate the future. Nature Communications, 8:14652.
-- Dahmani, L., & Bohbot, V. D. (2020). Habitual use of GPS negatively impacts spatial memory during self-guided navigation. Scientific Reports, 10:6310.
+- Javadi, A.-H. et al. (2017). Hippocampal and prefrontal processing of network topology to simulate the future. Nature Communications, 8, 14652.
+- Dahmani, L., & Bohbot, V. D. (2020). Habitual use of GPS negatively impacts spatial memory during self-guided navigation. Scientific Reports, 10, 6310.
 - Shin, M., Kim, J., & Kim, M. (2021). Human Learning from Artificial Intelligence: Evidence from Human Go Players' Decisions after AlphaGo. Proceedings of the Annual Meeting of the Cognitive Science Society, 43, 1795–1801.
 - Shin, M., Kim, J., van Opheusden, B., & Griffiths, T. L. (2023). Superhuman artificial intelligence can improve human decision-making by increasing novelty. PNAS, 120(12), e2214840120.
-- Suri, G., Slater, L. R., Ziaee, A., & Nguyen, M. (2024). Do Large Language Models Show Decision Heuristics Similar to Humans? A Case Study Using GPT-3.5. Journal of Experimental Psychology: General. (arXiv:2305.04400)
+- Suri, G., Slater, L. R., Ziaee, A., & Nguyen, M. (2024). Do Large Language Models Show Decision Heuristics Similar to Humans? A Case Study Using GPT-3.5. Journal of Experimental Psychology: General. (arXiv:2305.04400).
 - Cheung, V. et al. (2025). Large language models show amplified cognitive biases in moral decision-making. PNAS.
 - Turpin, M., Michael, J., Perez, E., & Bowman, S. R. (2023). Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting. NeurIPS 36.
 - Anthropic. (2025). Reasoning Models Don't Always Say What They Think.
@@ -110,5 +110,5 @@ Those who delegate to AI come to work only as well as AI does — and cannot wor
 - Osmani, A. (2025). Avoiding Skill Atrophy in the Age of AI. addyo.substack.com
 - Carr, N. (2013). All Can Be Lost: The Risk of Putting Our Knowledge in the Hands of Machines. The Atlantic.
 - Carr, N. (2014). The Glass Cage: Automation and Us. W. W. Norton.
-- 99% Invisible. (2015). Children of the Magenta (Automation Paradox, pt. 1). ep.170.
-- ABC News. (2016, March 15). Go Grandmaster Lee Sedol Reflects on Losing Series to Google's Computer. (post-match press conference)
+- 99% Invisible. (2015). Children of the Magenta (Automation Paradox, pt. 1). ep. 170.
+- ABC News. (2016, March 15). Go Grandmaster Lee Sedol Reflects on Losing Series to Google's Computer. (post-match press conference).
