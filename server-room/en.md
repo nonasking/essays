@@ -89,6 +89,8 @@ The human brain is a treasury of data. Where the contest with AI will be decided
 
 Those who delegate to AI come to work only as well as AI does — and cannot work without it. Those who learn from AI remain changed by exactly as much as passed through them. As the Go professionals did. "Don't delegate — absorb" means, precisely, this: don't absorb the answers. Absorb the way of arriving at them.
 
+<small>*This essay, too, was written that way — out of the records of conversations with an AI, through dialectical engagement between me and the machine, typed with the AI's borrowed hands.*</small>
+
 ## References
 
 - Kosmyna, N. et al. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. arXiv:2506.08872.

@@ -89,6 +89,8 @@ AI도 마찬가지일 것이다. 서버실 불이 꺼질 확률보다, 불이 �
 
 AI에 맡기는 사람은 AI만큼 일하게 되고, AI가 없으면 일하지 못하게 된다. AI를 배우는 사람은 AI를 통과한 만큼 달라진 자신으로 남는다. 프로 기사들이 그랬듯이. 위임하지 말고 흡수하라는 말은, 정확히는 이런 뜻이다. 답을 흡수하지 말고, 답에 도달하는 방식을 흡수하라.
 
+<small>*이 글 역시 AI와 대화한 기록들을 재료로, 나와 AI가 서로 변증법적으로 교전해서, AI의 손을 빌려서 타이핑했다.*</small>
+
 ## 참고 문헌
 
 - Kosmyna, N. et al. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. arXiv:2506.08872.
