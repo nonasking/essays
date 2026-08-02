@@ -9,7 +9,7 @@ description: "On AI methodology: don't delegate to AI — absorb its way of arri
 
 <small>[nonasking](https://github.com/nonasking) · 2026-07 · [한국어판](../)</small>
 
-<small>*AI was used heavily in the writing of this essay. Exactly how is disclosed at the end.*</small>
+<small>*This essay was written with heavy use of AI. Exactly how is disclosed at the end.*</small>
 
 The usual warning about AI starts like this: the moment the lights go out in the server room, every step we leaped forward with AI snaps back to where we started. The power fails, the API dies, the subscription lapses — and we have to go back to being our pre-AI selves. What if that self has already atrophied?
 
