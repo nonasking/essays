@@ -1,5 +1,7 @@
 # essays
 
+**쓸 수밖에 없는 것들 · Tasting Notes**
+
 Personal essays, published via GitHub Pages: https://nonasking.github.io/essays/
 
 - **The People Who Swap the Handles** — on laundering and disclosure in AI writing: not who typed, but who judged. [Korean](https://nonasking.github.io/essays/handles/) / [English](https://nonasking.github.io/essays/handles/en/)
