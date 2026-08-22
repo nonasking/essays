@@ -4,6 +4,7 @@
 
 Personal essays, published via GitHub Pages: https://nonasking.github.io/essays/
 
+- **The Harvest Counterfire** — a user's guide to the circuit that covers pain with pain: the fire cannot be put out, only starved. [Korean](https://nonasking.github.io/essays/counterfire/) / [English](https://nonasking.github.io/essays/counterfire/en/)
 - **The People Who Swap the Handles** — on laundering and disclosure in AI writing: not who typed, but who judged. [Korean](https://nonasking.github.io/essays/handles/) / [English](https://nonasking.github.io/essays/handles/en/)
 - **The Moment the Server Room Goes Dark** — on AI methodology: absorb the way of thinking, don't just delegate. [Korean](https://nonasking.github.io/essays/server-room/) / [English](https://nonasking.github.io/essays/server-room/en/)
 
