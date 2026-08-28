@@ -21,7 +21,8 @@
 {{ content }}
   </main>
   <footer>
-    <a href="{{ '/' | relative_url }}">essays</a> · <a href="https://github.com/nonasking/essays">GitHub</a>
+    <a href="{{ '/' | relative_url }}">essays</a> · <a href="https://github.com/nonasking/essays">GitHub</a><br>
+    {% if page.lang == "ko" %}© nonasking · 발췌와 링크는 환영합니다. 전문 전재는 사전 허가가 필요합니다.{% else %}© nonasking · Excerpts and links are welcome; full republication requires permission.{% endif %}
   </footer>
 </body>
 </html>
