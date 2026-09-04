@@ -8,6 +8,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <small>*쓸 수밖에 없는 것들 · Tasting Notes*</small>
 
+- **[변광성](./variable-star/)** ([English](./variable-star/en/)) — 자리로는 아무도 태양이 아니고, 빛으로는 모두가 조금씩 태양이다. <small>2026-09</small>
 - **[향일성](./heliotropism/)** ([English](./heliotropism/en/)) — 절대는 인격에서 찾을 수 없다: 추구되는 것이지, 얻을 수 있는 것이 아니다. <small>2026-08</small>
 - **[수확형 맞불](./counterfire/)** ([English](./counterfire/en/)) — 고통이 고통을 덮는 회로의 사용법: 불은 끌 수 없다, 굶길 수 있을 뿐이다. <small>2026-08</small>
 - **[손잡이를 갈아 끼우는 사람들](./handles/)** ([English](./handles/en/)) — AI 글쓰기의 세탁과 고지에 대하여: 누가 타이핑했느냐가 아니라, 누가 판단했느냐. <small>2026-08</small>
