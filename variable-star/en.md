@@ -81,7 +81,7 @@ Now the articles can be written down.
 
 Article one, the vacant sun. No one is the sun.
 
-Article two, universal luminescence. Every living thing shines on its own. Of the two layers of light the first essay distinguished, this concerns the light of vitality; toward the light of the absolute, a person remains a medium. Being the sun and giving off sunlight are different things. The seat is vacant, but the light is held in distribution.
+Article two, universal luminescence. Every living thing has a light of its own. Of the two layers of light the first essay distinguished, this concerns the light of vitality; toward the light of the absolute, a person remains a medium. Being the sun and giving off sunlight are different things. The seat is vacant, but the light is held in distribution.
 
 Article three, the distribution of luminosity. Luminosities differ, and everyone's luminosity varies. Everyone is a variable star. It neither denies the reality of difference nor absolutizes hierarchy.
 
