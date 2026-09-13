@@ -4,6 +4,7 @@
 
 Personal essays, published via GitHub Pages: https://nonasking.github.io/essays/
 
+- **Interference** — flourishing together is a gain in distribution, not in total: not a kind heart but a technique of phase. [Korean](https://nonasking.github.io/essays/interference/) / [English](https://nonasking.github.io/essays/interference/en/)
 - **Variable Star** — by seat, no one is the sun; by light, everyone is a little bit sun. [Korean](https://nonasking.github.io/essays/variable-star/) / [English](https://nonasking.github.io/essays/variable-star/en/)
 - **Heliotropism** — the absolute cannot be found in a person: to be pursued, not obtained. [Korean](https://nonasking.github.io/essays/heliotropism/) / [English](https://nonasking.github.io/essays/heliotropism/en/)
 - **The Harvest Counterfire** — a user's guide to the circuit that covers pain with pain: the fire cannot be put out, only starved. [Korean](https://nonasking.github.io/essays/counterfire/) / [English](https://nonasking.github.io/essays/counterfire/en/)
