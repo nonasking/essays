@@ -4,7 +4,7 @@
 
 Personal essays, published via GitHub Pages: https://nonasking.github.io/essays/
 
-- **On Aesthetics as Statics and as Dynamics** (a side piece to Heliotropism). [Korean](https://nonasking.github.io/essays/statics-and-dynamics/) / [English](https://nonasking.github.io/essays/statics-and-dynamics/en/)
+- **On Aesthetics as Statics and as Dynamics** (shares its premises with Heliotropism). [Korean](https://nonasking.github.io/essays/statics-and-dynamics/) / [English](https://nonasking.github.io/essays/statics-and-dynamics/en/)
 - **Ignition** — ash remains and stars burn: to carry the fire one received, and to let go. [Korean](https://nonasking.github.io/essays/ignition/) / [English](https://nonasking.github.io/essays/ignition/en/)
 - **Interference** — flourishing together is a gain in distribution, not in total: not a kind heart but a technique of phase. [Korean](https://nonasking.github.io/essays/interference/) / [English](https://nonasking.github.io/essays/interference/en/)
 - **Variable Star** — by seat, no one is the sun; by light, everyone is a little bit sun. [Korean](https://nonasking.github.io/essays/variable-star/) / [English](https://nonasking.github.io/essays/variable-star/en/)

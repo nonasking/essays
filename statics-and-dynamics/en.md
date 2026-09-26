@@ -2,7 +2,7 @@
 title: On Aesthetics as Statics and as Dynamics
 permalink: /statics-and-dynamics/en/
 lang: en
-description: "A side piece to the Heliotropism series. It can be read on its own."
+description: "Shares its premises with the Heliotropism series. It can be read on its own."
 ---
 
 # On Aesthetics as Statics and as Dynamics
@@ -11,7 +11,7 @@ description: "A side piece to the Heliotropism series. It can be read on its own
 
 <small>*This essay was written with heavy use of AI. Exactly how is disclosed at the end.*</small>
 
-<small>*This is a side piece to the series ["Heliotropism."](../../heliotropism/en/) It can be read on its own.*</small>
+<small>*This essay shares its premises with the series ["Heliotropism."](../../heliotropism/en/) It can be read on its own.*</small>
 
 ## Two Portraits
 

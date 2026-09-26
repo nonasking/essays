@@ -8,7 +8,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <small>*쓸 수밖에 없는 것들 · Tasting Notes*</small>
 
-- **[정역학과 동역학으로서의 미학에 대하여](./statics-and-dynamics/)** ([English](./statics-and-dynamics/en/)) <small>향일성 번외 · 2026-09</small>
+- **[정역학과 동역학으로서의 미학에 대하여](./statics-and-dynamics/)** ([English](./statics-and-dynamics/en/)) <small>2026-09</small>
 - **[점화](./ignition/)** ([English](./ignition/en/)) — 재는 남고 별은 탄다: 받은 불을 옮기고 손을 떼는 것. <small>2026-09</small>
 - **[간섭](./interference/)** ([English](./interference/en/)) — 상생은 총량의 이득이 아니라 분포의 이득이다: 착한 마음이 아니라 위상의 기술. <small>2026-09</small>
 - **[변광성](./variable-star/)** ([English](./variable-star/en/)) — 자리로는 아무도 태양이 아니고, 빛으로는 모두가 조금씩 태양이다. <small>2026-09</small>
