@@ -27,7 +27,7 @@ Two propositions collide, and both are true.
 
 One is the law of the second essay. Do not accept another's seat of the sun in trust, and do not entrust your own. The absolute cannot be found in a person, and the light of one's own sky must be switched on by oneself.
 
-The other is what the first essay set down under Kohut's name. A child must idealize its parents. Candle worship is a necessary stage of development. A child who cannot yet walk does not survive without making its parents the sun. The garden of the first essay holds the physical case: the vine's seedling walks toward darkness on its seed reserves alone, and if it fails to reach a trunk, it dies as a seedling. Leaning is not an option of childhood but a condition of survival.
+The other is what the first essay set down under Kohut's name. A child must idealize its parents. Candle worship is a necessary stage of development. A child who cannot yet walk does not survive without making its parents the sun. The garden of the first essay holds the physical case: the vine's seedling walks toward darkness on its seed reserves alone, and if it fails to reach a trunk, it dies as a seedling. Leaning is not an option of childhood but a condition of survival. A child who is not cared for as a child does not grow.
 
 Put the two propositions in one sentence and they look like a contradiction. A child must for a while make its parents the sun, and the moment it makes them the permanent sun, it falls into misery. The solution lies in what is being leaned on.
 
