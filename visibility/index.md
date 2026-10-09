@@ -7,7 +7,7 @@ description: 같은 말로도 상대의 마음을 깎을 수도 있고 어루만
 
 # LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 가시거리
 
-<small>[nonasking](https://github.com/nonasking) · 2026-10</small>
+<small>[nonasking](https://github.com/nonasking) · 2026-10 · [English version](./en/)</small>
 
 <small>*작성 과정에 AI를 깊이 활용한 글입니다. 정확히 어떻게였는지는 글 끝에 밝혀 두었습니다.*</small>
 
