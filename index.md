@@ -8,6 +8,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <small>*쓸 수밖에 없는 것들 · Tasting Notes*</small>
 
+- **[LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 가시거리](./visibility/)** <small>2026-10</small>
 - **[LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 그러하다의 갈래들](./ways-of-saying-so/)** <small>2026-10</small>
 - **[정역학과 동역학으로서의 미학에 대하여](./statics-and-dynamics/)** ([English](./statics-and-dynamics/en/)) <small>2026-09</small>
 - **[점화](./ignition/)** ([English](./ignition/en/)) — 재는 남고 별은 탄다: 받은 불을 옮기고 손을 떼는 것. <small>2026-09</small>
