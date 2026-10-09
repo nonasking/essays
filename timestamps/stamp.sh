@@ -8,5 +8,5 @@ slug="$1"; [ -z "$slug" ] && { echo "slug 필요"; exit 1; }
 $OTS -q stamp "$slug/index.md" "$slug/en.md"
 mv -f "$slug/index.md.ots" "timestamps/${slug}_index.md.ots"
 mv -f "$slug/en.md.ots" "timestamps/${slug}_en.md.ots"
-rm -f timestamps/*.ots.bak
+rm -f timestamps/*.ots.bak 2>/dev/null; true
 echo "stamped: $slug (증명은 몇 시간 뒤 'ots upgrade timestamps/${slug}_*.ots'로 확정)"
