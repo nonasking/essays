@@ -149,6 +149,8 @@ description: 연작 「향일성」과 같은 전제를 공유합니다. 연작�
 
 대상 하나, 감정 둘, 때 없음, 현재형. '고'는 둘을 온전히 두는 병치이다. 이 문장이 비싼 이유는 한쪽을 내려놓을 수 없기 때문이다. 박제가 안 되니 끝이 없고, 끝이 없으니 용량이 계속 나간다. 클라인이 우울적 자리를 고통스럽다고 한 것이 정확히 이 두 비용이다. 용량, 그리고 이상적 대상을 잃은 애도. 분열은 경제적이다. 대상당 스냅샷 한 장. 통합은 대상당 시계열 전부를 들고 있어야 한다. 그래서 어렵고, 그래서 관조 집합이 작아야 한다. 온전한 대상은 비싸므로 소수만 온전하게 들고, 나머지는 규칙으로 산다.
 
+이상의 「날개」에 이 문장의 실물이 있다. 아내가 자기에게 먹인 것이 감기약이었는지 수면제였는지 끝내 판정하지 못하게 된 남자가 백화점 옥상에서 이렇게 쓴다. "우리 부부는 숙명적으로 발이 맞지 않는 절름발이인 것이다. 내나 아내나 제 거동에 로직을 붙일 필요는 없다. 변해(辨解)할 필요도 없다. 사실은 사실대로 오해는 오해대로 그저 끝없이 발을 절뚝거리면서 세상을 걸어가면 되는 것이다. 그렇지 않을까?" 합력을 구하지 않는다. 사실과 오해를 나란히 둔 채 걷는다. 끝이 없다는 것까지 제 손으로 적는다.
+
 비온은 두 자리를 단계가 아니라 왕복으로 보았다. 분열로 잠깐 돌아가는 것은 퇴행이 아니라 부하 조절이다. 이 조항이 우열 없음을 지킨다. 문제는 어느 쪽에 있느냐가 아니라 어느 한쪽에 상주하는 것이다.
 
 한 단어를 경계해야 한다. 반추. 임상에서 반추는 합력을 구하려다 실패를 반복하는 것이고, 그것은 동역학의 병리, 판단의 무한 유예의 다른 이름이다. 병치는 반추가 아니다. 병치는 합력 구하기를 그만둔 상태이고, 그 자체로 완료다.
@@ -207,6 +209,7 @@ description: 연작 「향일성」과 같은 전제를 공유합니다. 연작�
 - Klein, M. (1935). A contribution to the psychogenesis of manic-depressive states. *International Journal of Psycho-Analysis*, 16, 145-174. Klein, M. (1946). Notes on some schizoid mechanisms. *International Journal of Psycho-Analysis*, 27, 99-110.
 - Grinberg, L. (1964). Two kinds of guilt: Their relations with normal and pathological aspects of mourning. *International Journal of Psycho-Analysis*, 45, 366-371. 박해적 죄책과 우울적 죄책.
 - Bion, W. R. (1963). *Elements of Psycho-Analysis*. Heinemann. Ps↔D.
+- 이상 (1936). 날개. 《조광》 9월호.
 - Hieronymi, P. (2001). Articulating an uncompromising forgiveness. *Philosophy and Phenomenological Research*, 62(3), 529-555. doi:10.1111/j.1933-1592.2001.tb00073.x
 - Luchies, L. B., Finkel, E. J., McNulty, J. K., & Kumashiro, M. (2010). The doormat effect: When forgiving erodes self-respect and self-concept clarity. *Journal of Personality and Social Psychology*, 98(5), 734-749. doi:10.1037/a0017838
 

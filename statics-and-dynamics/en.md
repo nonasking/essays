@@ -149,6 +149,8 @@ The sentence that stands has this form. "I love him and I hate him."
 
 One object, two feelings, no when, present tense. "And" is the juxtaposition that leaves both whole. The sentence is expensive because neither side can be set down. Since nothing gets mounted, there is no end, and since there is no end, the capacity keeps draining. When Klein called the depressive position painful, she meant exactly these two costs. Capacity, and mourning for the lost ideal object. Splitting is economical: one snapshot per object. Integration has to hold the entire time series for each. That is why it is hard, and why the contemplated set must be small. Whole objects are expensive, so one holds a few whole and lives by rule with the rest.
 
+Yi Sang's "Wings" holds the real instance of that sentence. A man who can no longer determine whether what his wife fed him was cold medicine or sleeping pills writes this on a department store rooftop: "My wife and I are, by fate, two cripples whose feet do not match. Neither I nor she needs to attach a logic to our conduct. Nor do we need to explain ourselves. Facts as facts, misunderstandings as misunderstandings, we need only walk on through the world, limping without end. Is that not so?" No resultant is computed. He walks with fact and misunderstanding set side by side. And he writes down, in his own hand, that there is no end to it.
+
 Bion saw the two positions not as stages but as an oscillation. Returning to splitting for a while is not regression but load management. This clause is what keeps the no-ranking rule intact. The problem is not which side you are on but taking up permanent residence on either.
 
 One word needs a warning. Rumination. Clinically, rumination is the repeated failure to compute a resultant, and it is the pathology of dynamics under another name, the infinite deferral of judgment. Juxtaposition is not rumination. Juxtaposition is the state of having stopped trying to compute the resultant, and it is complete in itself.
@@ -207,6 +209,7 @@ The instrument of statics is the scale and the instrument of dynamics is the pen
 - Klein, M. (1935). A contribution to the psychogenesis of manic-depressive states. *International Journal of Psycho-Analysis*, 16, 145-174. Klein, M. (1946). Notes on some schizoid mechanisms. *International Journal of Psycho-Analysis*, 27, 99-110.
 - Grinberg, L. (1964). Two kinds of guilt: Their relations with normal and pathological aspects of mourning. *International Journal of Psycho-Analysis*, 45, 366-371. Persecutory and depressive guilt.
 - Bion, W. R. (1963). *Elements of Psycho-Analysis*. Heinemann. Ps↔D.
+- Yi Sang (1936). 날개 [Wings]. *Chogwang*, September issue.
 - Hieronymi, P. (2001). Articulating an uncompromising forgiveness. *Philosophy and Phenomenological Research*, 62(3), 529-555. doi:10.1111/j.1933-1592.2001.tb00073.x
 - Luchies, L. B., Finkel, E. J., McNulty, J. K., & Kumashiro, M. (2010). The doormat effect: When forgiving erodes self-respect and self-concept clarity. *Journal of Personality and Social Psychology*, 98(5), 734-749. doi:10.1037/a0017838
 
