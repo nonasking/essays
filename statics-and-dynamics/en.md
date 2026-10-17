@@ -65,7 +65,9 @@ Game theory has a field measurement of this mode. When Axelrod held his tourname
 
 A label is the ticket into contemplation. The moment you label someone, the moment you ask what he lives toward, that person is already inside the contemplated set. Cheaper than a label is a rule.
 
-So there are three modes. The contemplated variable, the constant that reduces contemplation to a single shot, and the rule with no contemplation at all. The choice between statics and dynamics arises only inside the contemplated set; outside it is neither. Contemplation is a scarce resource, and the list of those who receive it is the budget of the one who contemplates.
+This axis has an opposite end as well. If the third mode empties contemplation and keeps only the rule, that end empties the rule and keeps only contemplation. Holding no constant at all, setting down even the restoring coefficient, looking with a blank page. This is not the extreme of dynamics. Dynamics moves constants into the parameters; it does not abolish them, and without a center to return to there is no return. Contemplation without rule lies outside it. This essay can say only two things about it. That it is the most expensive: even with a single other, the whole capacity is spent. And that from outside, the blank page of someone unable to reach a judgment and the blank page of someone who has set judgment down look the same and cannot be told apart. What separates them lies only inside the one who looks.
+
+So there are not three modes but four, and they lie on one axis. The rule without contemplation, the constant that reduces contemplation to a single shot, the contemplated variable, and contemplation without rule. The choice between statics and dynamics arises only inside the contemplated set; the two ends of the axis are neither. Contemplation is a scarce resource, and the list of those who receive it is the budget of the one who contemplates.
 
 ## The Label One Pins on Oneself
 
