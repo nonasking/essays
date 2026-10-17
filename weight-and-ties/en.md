@@ -125,7 +125,7 @@ This essay does not prescribe. The moment one prescribes, a ranking appears; onl
 
 Whether setting it down can be done by will, I do not know. In Wegner's white bear experiment, when people pressed a thought down it surfaced even while they pressed, and surfaced more once they stopped. But there are cases where noticing that one is tallying loosens the tally. If one keeps feeling the eye that censored and watched, one day one meets that eye. To have met it means it is no longer one's own eye.
 
-And one footnote. The absence of ranking can itself be a certainty. Even an essay written to sort out the knowledge that nothing one grasps will stop the vibration becomes the next handle if one grasps that sentence. The writer stands on the side that withstands by hunger, and this essay is written from that place. Hidden, it would be a ranking secretly made; disclosed, it is a signature.
+And one footnote. The absence of ranking can itself be a certainty. Even an essay written to sort out the knowledge that nothing one grasps will stop the vibration becomes the next handle if one grasps that sentence.
 
 ## The Question
 
