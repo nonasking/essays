@@ -8,6 +8,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <small>*쓸 수밖에 없는 것들 · Tasting Notes*</small>
 
+- **[무게와 매임: 허기에 대하여](./weight-and-ties/)** ([English](./weight-and-ties/en/)) <small>2026-10</small>
 - **[LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 가시거리](./visibility/)** ([English](./visibility/en/)) <small>2026-10</small>
 - **[LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 그러하다의 갈래들](./ways-of-saying-so/)** <small>2026-10</small>
 - **[정역학과 동역학으로서의 미학에 대하여](./statics-and-dynamics/)** ([English](./statics-and-dynamics/en/)) <small>2026-09</small>
