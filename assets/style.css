@@ -167,3 +167,16 @@ footer a {
   body { font-size: 1rem; }
   h1 { font-size: 1.55rem; }
 }
+
+/* 목차 언어 선택 */
+.langs > input { position: absolute; opacity: 0; pointer-events: none; }
+.lang-switch { display: flex; gap: 0.55rem; align-items: baseline; margin: 1.6rem 0 0.4rem; font-size: 0.95rem; color: var(--muted); }
+.lang-switch label { cursor: pointer; padding-bottom: 1px; border-bottom: 1px solid transparent; }
+.lang-switch label:hover { color: var(--ink); }
+.langs:has(#lang-ko:checked) label[for="lang-ko"],
+.langs:has(#lang-en:checked) label[for="lang-en"] { color: var(--accent); border-bottom-color: var(--accent); }
+.langs:has(#lang-ko:focus-visible) label[for="lang-ko"],
+.langs:has(#lang-en:focus-visible) label[for="lang-en"] { outline: 2px solid var(--accent); outline-offset: 3px; }
+.langs:has(#lang-ko:checked) .list-en,
+.langs:has(#lang-en:checked) .list-ko { display: none; }
+.list-ko { line-height: 1.9; word-break: keep-all; }
