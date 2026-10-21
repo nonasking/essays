@@ -109,7 +109,7 @@ Hunger is not one. One hollow may pull while another does not. On a day when foo
 
 ## The Tally
 
-This essay began with one observation. Those who ranked pleasures mostly lived enjoying the pleasures they ranked highest. Those who ranked almost without exception placed their own lives at the top. Nietzsche made a method of this. Every great philosophy so far, he wrote, has been the confession of its author and a kind of involuntary and unnoticed memoir.
+This essay began with one observation. Those who ranked pleasures mostly lived enjoying the pleasures they ranked highest. Those who ranked almost without exception placed their own lives at the top.
 
 That an origin is suspect does not make a claim false. The observation is grounds for suspicion, not refutation. Each one's pleasure is each one's own. The error lies not in the judgment but only in enforcing the judgment on others.
 
@@ -155,7 +155,6 @@ Hunger is the confession that one is alive and has not broken.
 - Camus, A. (1955). Preface to *L'Étranger* (ed. G. Brée & C. Lynes, Appleton-Century-Crofts), dated January 8, 1955. "Dans notre société tout homme qui ne pleure pas à l'enterrement de sa mère risque d'être condamné à mort."
 - Winnicott, D. W. (1958). The capacity to be alone. *International Journal of Psycho-Analysis*, 39, 416-420.
 - Kafka, F. (1922). Ein Hungerkünstler. *Die neue Rundschau*, 33, 983-992. In book form, *Ein Hungerkünstler. Vier Geschichten*, Die Schmiede, 1924.
-- Nietzsche, F. (1886). *Jenseits von Gut und Böse*, §6.
 - Galen, L. W., & Kloet, J. D. (2011). Mental well-being in the religious and the non-religious: Evidence for a curvilinear relationship. *Mental Health, Religion & Culture*, 14(7), 673-689. doi:10.1080/13674676.2010.510829
 - Quoidbach, J., Gilbert, D. T., & Wilson, T. D. (2013). The end of history illusion. *Science*, 339(6115), 96-98. doi:10.1126/science.1229294
 - Wegner, D. M., Schneider, D. J., Carter, S. R., III, & White, T. L. (1987). Paradoxical effects of thought suppression. *Journal of Personality and Social Psychology*, 53(1), 5-13. doi:10.1037/0022-3514.53.1.5
