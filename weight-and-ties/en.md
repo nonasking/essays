@@ -109,7 +109,7 @@ Hunger is not one. One hollow may pull while another does not. On a day when foo
 
 ## The Tally
 
-This essay began with one observation. Those who ranked pleasures mostly lived enjoying the pleasures they ranked highest. The one who divided higher from lower pleasures read poetry and wrote in the leisure left after office work. The one who wrote that even bread and water are the highest pleasure to a hungry mouth lived frugally in a garden. Those who ranked almost without exception placed their own lives at the top. Nietzsche made a method of this. Every great philosophy so far, he wrote, has been the confession of its author and a kind of involuntary and unnoticed memoir.
+This essay began with one observation. Those who ranked pleasures mostly lived enjoying the pleasures they ranked highest. The one who wrote that even bread and water are the highest pleasure to a hungry mouth lived frugally in a garden. Those who ranked almost without exception placed their own lives at the top. Nietzsche made a method of this. Every great philosophy so far, he wrote, has been the confession of its author and a kind of involuntary and unnoticed memoir.
 
 That an origin is suspect does not make a claim false. The observation is grounds for suspicion, not refutation. Each one's pleasure is each one's own. The error lies not in the judgment but only in enforcing the judgment on others.
 
@@ -156,7 +156,6 @@ Hunger is the confession that one is alive and has not broken.
 - Winnicott, D. W. (1958). The capacity to be alone. *International Journal of Psycho-Analysis*, 39, 416-420.
 - Kafka, F. (1922). Ein Hungerkünstler. *Die neue Rundschau*, 33, 983-992. In book form, *Ein Hungerkünstler. Vier Geschichten*, Die Schmiede, 1924.
 - Nietzsche, F. (1886). *Jenseits von Gut und Böse*, §6.
-- Mill, J. S. (1861). *Utilitarianism*, ch. 2. The competent judges.
 - Epicurus. *Epistula ad Menoeceum* (= Diogenes Laertius X.130-131). Bread and water. On the garden and the frugal life, Diogenes Laertius X.10-11.
 - Galen, L. W., & Kloet, J. D. (2011). Mental well-being in the religious and the non-religious: Evidence for a curvilinear relationship. *Mental Health, Religion & Culture*, 14(7), 673-689. doi:10.1080/13674676.2010.510829
 - Quoidbach, J., Gilbert, D. T., & Wilson, T. D. (2013). The end of history illusion. *Science*, 339(6115), 96-98. doi:10.1126/science.1229294

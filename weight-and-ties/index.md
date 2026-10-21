@@ -109,7 +109,7 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 
 ## 셈
 
-이 글의 출발은 관찰 하나였다. 즐거움에 위계를 둔 사람들이 대체로 자기가 높게 치는 즐거움을 본인들이 누리고 살았다는 것. 고급 쾌락과 저급 쾌락을 가른 사람은 시를 읽었고, 사무 뒤의 여가에 글을 쓴 사람이었다. 빵과 물도 배고픈 입에는 최고의 쾌락이라고 쓴 사람은 정원에서 검소하게 살았다. 서열을 매긴 사람은 거의 예외 없이 자기 삶을 꼭대기에 놓았다. 니체는 이것을 방법으로 삼았다. 지금까지의 모든 위대한 철학은 그 저자의 자기 고백이자 일종의 의도하지 않은, 스스로도 알아채지 못한 회고록이었다고.
+이 글의 출발은 관찰 하나였다. 즐거움에 위계를 둔 사람들이 대체로 자기가 높게 치는 즐거움을 본인들이 누리고 살았다는 것. 빵과 물도 배고픈 입에는 최고의 쾌락이라고 쓴 사람은 정원에서 검소하게 살았다. 서열을 매긴 사람은 거의 예외 없이 자기 삶을 꼭대기에 놓았다. 니체는 이것을 방법으로 삼았다. 지금까지의 모든 위대한 철학은 그 저자의 자기 고백이자 일종의 의도하지 않은, 스스로도 알아채지 못한 회고록이었다고.
 
 기원이 수상하다고 주장이 틀린 것은 아니다. 이 관찰은 반박이 아니라 의심의 근거다. 각자의 즐거움은 각자의 것이다. 오류는 그 판정에 있지 않고, 판정을 남에게 집행하는 데에만 있다.
 
@@ -156,7 +156,6 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 - Winnicott, D. W. (1958). The capacity to be alone. *International Journal of Psycho-Analysis*, 39, 416-420.
 - Kafka, F. (1922). Ein Hungerkünstler. *Die neue Rundschau*, 33, 983-992. 단행본 *Ein Hungerkünstler. Vier Geschichten*, Die Schmiede, 1924.
 - Nietzsche, F. (1886). *Jenseits von Gut und Böse*, §6.
-- Mill, J. S. (1861). *Utilitarianism*, 2장. 유능한 판정자.
 - Epicurus. *Epistula ad Menoeceum* (= Diogenes Laertius X.130-131). 빵과 물. 정원과 검소한 생활은 Diogenes Laertius X.10-11.
 - Galen, L. W., & Kloet, J. D. (2011). Mental well-being in the religious and the non-religious: Evidence for a curvilinear relationship. *Mental Health, Religion & Culture*, 14(7), 673-689. doi:10.1080/13674676.2010.510829. 확신의 정도가 가름.
 - Quoidbach, J., Gilbert, D. T., & Wilson, T. D. (2013). The end of history illusion. *Science*, 339(6115), 96-98. doi:10.1126/science.1229294
