@@ -69,7 +69,7 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 
 허기는 결핍이 아니다. 허기는 존재가 차오를 수 있는 공동(空洞)이다. 빈 곳은 당긴다. 고프다는 그 당김이고, 차오르다는 그 채워짐이다. 공동은 고정된 크기가 아니다. 어떤 허기는 채우면 끝나고, 어떤 허기는 채울수록 커진다. 이것은 분류가 아니라 관측이다. 무엇이든 채움은 채움이다. 다만 채울수록 커지는 허기라면 채울수록 무게가 계속 는다. 허기를 결핍으로 여기고 수치로 삼는 존재는 그 공동을 채우기 어렵다.
 
-허기가 결핍이 아니라는 것의 실증은 어린 생명이다. 어린 생명이 가장 고프고 가장 빨리 자란다. 허기가 없는 생명은 자라지 않는다. 그러니 고픔이 있다는 것은 모자람의 신호가 아니라 여지의 신호다. 아직 차오를 데가 있다는 것. 시몬 베유는 빵이 없을지도 모른다는 말을 들어도 아이는 계속 운다고 썼다. 위험은 영혼이 빵이 있는지 의심하는 데 있지 않고, 거짓으로 자기가 배고프지 않다고 믿게 되는 데 있다고. 매여 있는 줄 모르고 매여 살 때 허기를 느끼지 못하는 것이 그 거짓이다. 줄이 답을 대신 가져다주니 허기를 느끼지 못한다.
+허기가 결핍이 아니라는 것의 실증은 어린 생명이다. 어린 생명이 가장 고프고 가장 빨리 자란다. 허기가 없는 생명은 자라지 않는다. 그러니 고픔이 있다는 것은 모자람의 신호가 아니라 여지의 신호다. 아직 차오를 데가 있다는 것. 매여 있는 줄 모르고 매여 살 때는 허기를 느끼지 못한다. 줄이 답을 대신 가져다주기 때문이다.
 
 허기는 무게도 줄도 아니다. 둘을 만드는 힘이다. 채움이 자신에게 남으면 무게가 되고, 채움이 특정한 타자에게 고정되면 줄이 된다. 같은 허기, 같은 사건이 어느 쪽이 되는지는 허기의 종류가 아니라 채움이 남는 자리로 갈린다. 앞 절의 기준이 그대로 걸린다. 비준이 어디서 오느냐. 그래서 줄의 기원도 여기 있다. 존재는 자신의 공동을 채울 수 있는 존재에게 끌린다. 그 끌림이 상대에게 고정되면 줄이다. 줄은 임의로 생기지 않는다. 허기에서 비롯된다.
 
@@ -139,7 +139,7 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 
 ## 자백
 
-단식 광대는 입에 맞는 음식을 끝까지 찾지 못했고, 끝까지 고팠다. 베유의 아이는 빵이 없을지도 모른다는 말에도 계속 울었다. 뫼르소는 회한도 믿음도 자백하지 않고 외로움 하나를 자백했다. 셋이 같은 자리에 있다.
+단식 광대는 입에 맞는 음식을 끝까지 찾지 못했고, 끝까지 고팠다. 뫼르소는 회한도 믿음도 자백하지 않고 외로움 하나를 자백했다. 둘이 같은 자리에 있다.
 
 허기는 부서지지 않고 살아 있다는 자백이다.
 
@@ -151,7 +151,6 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 - Fiske, S. T., & Neuberg, S. L. (1990). A continuum of impression formation, from category-based to individuating processes: Influences of information and motivation on attention and interpretation. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 23, pp. 1-74). Academic Press. doi:10.1016/S0065-2601(08)60317-2. 범주로 먼저 읽힘.
 - Townsend, R. M. (1994). Risk and insurance in village India. *Econometrica*, 62(3), 539-591. doi:10.2307/2951659. 개별 충격은 나누고 공통 충격은 못 나눔.
 - Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670-679. doi:10.1037/amp0000059. 좋아함과 원함의 분리.
-- Weil, S. (1950). *Attente de Dieu*. La Colombe. 「Formes de l'amour implicite de Dieu」 중 'Amour implicite et amour explicite' 절. "Le danger n'est pas que l'âme doute s'il y a ou non du pain, mais qu'elle se persuade par un mensonge qu'elle n'a pas faim."
 - Augustinus. *Confessiones* XIII.9.10. "Pondus meum amor meus; eo feror, quocumque feror."
 - Ovidius. *Metamorphoses* VIII, 183-235. 이카로스.
 - 『孟子』 離婁上. "言非禮義, 謂之自暴也. 吾身不能居仁由義, 謂之自棄也."
