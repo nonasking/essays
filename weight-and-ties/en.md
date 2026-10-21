@@ -93,7 +93,7 @@ There are two blanks. The blank without hunger is tedium. Nothing pulls at the m
 
 The blank in which the hollow itself has stopped pulling, and no next hunger arrives, is breaking. Written from the side of vibration, it goes like this. When vibration exceeds the tied force the line snaps, and when the remaining weight cannot withstand it either, the hollow stops pulling. The breaking of the earlier sections and the breaking of this one are the same thing.
 
-In this essay, breaking is self-abandonment. The term comes from the *Mencius*, and this essay borrows the word and uses it differently. The Mencian self-abandoner holds a definition: "I cannot." This essay's self-abandonment holds no definition at all. Becoming unable to ask "who am I." Hunger not arising. A state neither of suspending nor of holding. Suspension is a state where there is still a hand holding back; breaking is the state where even that hand has let go. From outside the two look alike; from inside they differ.
+In this essay, breaking is self-abandonment. This essay's self-abandonment holds no definition at all. Becoming unable to ask "who am I." Hunger not arising. A state neither of suspending nor of holding. Suspension is a state where there is still a hand holding back; breaking is the state where even that hand has let go. From outside the two look alike; from inside they differ.
 
 And breaking is not suicide. Suicide is a verdict on whether life is worth living, and an act. Breaking is the absence of a verdict. As a body that has lost its appetite does not grow, a being whose hollow does not pull does not ask. To read a being that could not withstand and broke as heading straight that way is a misreading.
 
@@ -150,7 +150,6 @@ Hunger is the confession that one is alive and has not broken.
 - Townsend, R. M. (1994). Risk and insurance in village India. *Econometrica*, 62(3), 539-591. doi:10.2307/2951659
 - Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670-679. doi:10.1037/amp0000059. The dissociation of liking and wanting.
 - Ovidius. *Metamorphoses* VIII, 183-235. Icarus.
-- *Mencius*, Li Lou I. "言非禮義, 謂之自暴也. 吾身不能居仁由義, 謂之自棄也."
 - Camus, A. (1942). *Le Mythe de Sisyphe*. Gallimard. The opening, which frames suicide as a judgment on whether life is worth living.
 - Camus, A. (1942). *L'Étranger*. Gallimard. The café au lait at the vigil, the prosecutor's speech, the scene with the chaplain, the final sentence. The English rendering of the final sentence in the text is the author's.
 - Camus, A. (1955). Preface to *L'Étranger* (ed. G. Brée & C. Lynes, Appleton-Century-Crofts), dated January 8, 1955. "Dans notre société tout homme qui ne pleure pas à l'enterrement de sa mère risque d'être condamné à mort."
