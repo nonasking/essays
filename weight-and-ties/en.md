@@ -144,12 +144,9 @@ Hunger is the confession that one is alive and has not broken.
 ## References
 
 - *Inana's descent to the nether world*. ETCSL 1.4.1, lines 129-172. The Electronic Text Corpus of Sumerian Literature, Oxford. The stripping at the seven gates and the exchange "What is this?"
-- Janoff-Bulman, R. (1992). *Shattered Assumptions: Towards a New Psychology of Trauma*. Free Press. The deepest assumptions become visible when shattered.
-- Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670-679. doi:10.1037/amp0000059. The dissociation of liking and wanting.
 - Weil, S. (1950). *Attente de Dieu*. La Colombe. In "Formes de l'amour implicite de Dieu," the section "Amour implicite et amour explicite." "Le danger n'est pas que l'âme doute s'il y a ou non du pain, mais qu'elle se persuade par un mensonge qu'elle n'a pas faim."
 - Ovidius. *Metamorphoses* VIII, 183-235. Icarus.
 - *Mencius*, Li Lou I. "言非禮義, 謂之自暴也. 吾身不能居仁由義, 謂之自棄也."
-- Camus, A. (1942). *Le Mythe de Sisyphe*. Gallimard. The opening, which frames suicide as a judgment on whether life is worth living.
 - Camus, A. (1942). *L'Étranger*. Gallimard. The café au lait at the vigil, the prosecutor's speech, the scene with the chaplain, the final sentence. The English rendering of the final sentence in the text is the author's.
 - Camus, A. (1955). Preface to *L'Étranger* (ed. G. Brée & C. Lynes, Appleton-Century-Crofts), dated January 8, 1955. "Dans notre société tout homme qui ne pleure pas à l'enterrement de sa mère risque d'être condamné à mort."
 - Winnicott, D. W. (1958). The capacity to be alone. *International Journal of Psycho-Analysis*, 39, 416-420.

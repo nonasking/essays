@@ -144,12 +144,9 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 ## 참고 문헌
 
 - *Inana's descent to the nether world*. ETCSL 1.4.1, 129-172행. The Electronic Text Corpus of Sumerian Literature, Oxford. 일곱 문의 박탈과 "이것은 무엇이냐" 문답.
-- Janoff-Bulman, R. (1992). *Shattered Assumptions: Towards a New Psychology of Trauma*. Free Press. 깊은 가정은 깨질 때 보인다.
-- Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670-679. doi:10.1037/amp0000059. 좋아함과 원함의 분리.
 - Weil, S. (1950). *Attente de Dieu*. La Colombe. 「Formes de l'amour implicite de Dieu」 중 'Amour implicite et amour explicite' 절. "Le danger n'est pas que l'âme doute s'il y a ou non du pain, mais qu'elle se persuade par un mensonge qu'elle n'a pas faim."
 - Ovidius. *Metamorphoses* VIII, 183-235. 이카로스.
 - 『孟子』 離婁上. "言非禮義, 謂之自暴也. 吾身不能居仁由義, 謂之自棄也."
-- Camus, A. (1942). *Le Mythe de Sisyphe*. Gallimard. 자살을 삶의 가치에 대한 판단으로 놓은 서두.
 - Camus, A. (1942). *L'Étranger*. Gallimard. 한국어판: 알베르 카뮈, 『이방인』, 김화영 옮김, 민음사. 밤샘의 카페오레, 검사의 논고, 사제와의 대면, 마지막 문장.
 - Camus, A. (1955). Préface à *L'Étranger* (éd. G. Brée & C. Lynes, Appleton-Century-Crofts), 1955년 1월 8일. "Dans notre société tout homme qui ne pleure pas à l'enterrement de sa mère risque d'être condamné à mort."
 - Winnicott, D. W. (1958). The capacity to be alone. *International Journal of Psycho-Analysis*, 39, 416-420.
