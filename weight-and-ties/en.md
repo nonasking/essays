@@ -85,8 +85,6 @@ Weight has two faces. The heavier, the stronger against vibration, but the harde
 
 And weight is not height. Growing in mass does not bring one nearer to anything. Icarus was lightest when he was highest. What lifted him was not his own mass but borrowed wings, and when he rose high, the wax that bound the borrowed wings melted first. What remained was his own mass, and mass does not fly. Rising and accumulating are different axes. This essay writes the axis of accumulation.
 
-Augustine wrote in Book 13 of the *Confessions* that his weight was his love. As fire goes up and stone goes down, he too goes wherever his weight carries him. That weight is not only a force for withstanding but a force that carries, so far this essay agrees. The difference is that his weight has a place of rest. This essay leaves that place empty. And he bound weight and love in a single word; this essay keeps them apart. To write that the same hunger can make a being heavy and can also bind it, the two must be separate.
-
 ## The Blank, and Breaking
 
 The price of withstanding by weight is the blank. The hollow not filling. This is the symmetric term of this way.
@@ -151,7 +149,6 @@ Hunger is the confession that one is alive and has not broken.
 - Fiske, S. T., & Neuberg, S. L. (1990). A continuum of impression formation, from category-based to individuating processes: Influences of information and motivation on attention and interpretation. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 23, pp. 1-74). Academic Press. doi:10.1016/S0065-2601(08)60317-2
 - Townsend, R. M. (1994). Risk and insurance in village India. *Econometrica*, 62(3), 539-591. doi:10.2307/2951659
 - Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670-679. doi:10.1037/amp0000059. The dissociation of liking and wanting.
-- Augustinus. *Confessiones* XIII.9.10. "Pondus meum amor meus; eo feror, quocumque feror."
 - Ovidius. *Metamorphoses* VIII, 183-235. Icarus.
 - *Mencius*, Li Lou I. "言非禮義, 謂之自暴也. 吾身不能居仁由義, 謂之自棄也."
 - Camus, A. (1942). *Le Mythe de Sisyphe*. Gallimard. The opening, which frames suicide as a judgment on whether life is worth living.

@@ -85,8 +85,6 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 
 그리고 무게는 높이가 아니다. 질량이 늘어도 어디에 가까워지는 것은 아니다. 이카로스는 가장 높이 올랐을 때 가장 가벼웠다. 그를 올린 것은 제 질량이 아니라 빌린 날개였고, 높이 오르자 빌린 날개를 묶은 밀랍부터 녹았다. 남은 것은 제 질량이었고, 질량은 날지 않는다. 오르는 것과 쌓이는 것은 다른 축이다. 이 글은 쌓이는 축을 적는다.
 
-아우구스티누스는 『고백록』 13권에서 내 무게는 내 사랑이라고 썼다. 불은 위로 돌은 아래로 가듯 저도 제 무게가 이끄는 자리로 간다고. 무게가 버티는 힘이기만 한 것이 아니라 이끄는 힘이기도 하다는 것, 거기까지는 같다. 다른 것은 그의 무게에는 쉴 자리가 있다는 것이다. 이 글은 그 자리를 비워 둔다. 그리고 그는 무게와 사랑을 한 단어로 묶었고, 이 글은 둘을 갈라 둔다. 같은 허기가 존재를 무겁게도 하고 묶기도 한다는 것을 적으려면 둘이 따로 있어야 한다.
-
 ## 공백과 부서짐
 
 무게로 버티는 방식의 값은 공백이다. 공동이 차오르지 않는 것. 이것이 이 방식의 대칭항이다.
@@ -151,7 +149,6 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 - Fiske, S. T., & Neuberg, S. L. (1990). A continuum of impression formation, from category-based to individuating processes: Influences of information and motivation on attention and interpretation. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 23, pp. 1-74). Academic Press. doi:10.1016/S0065-2601(08)60317-2. 범주로 먼저 읽힘.
 - Townsend, R. M. (1994). Risk and insurance in village India. *Econometrica*, 62(3), 539-591. doi:10.2307/2951659. 개별 충격은 나누고 공통 충격은 못 나눔.
 - Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670-679. doi:10.1037/amp0000059. 좋아함과 원함의 분리.
-- Augustinus. *Confessiones* XIII.9.10. "Pondus meum amor meus; eo feror, quocumque feror."
 - Ovidius. *Metamorphoses* VIII, 183-235. 이카로스.
 - 『孟子』 離婁上. "言非禮義, 謂之自暴也. 吾身不能居仁由義, 謂之自棄也."
 - Camus, A. (1942). *Le Mythe de Sisyphe*. Gallimard. 자살을 삶의 가치에 대한 판단으로 놓은 서두.
