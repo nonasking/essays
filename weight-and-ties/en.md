@@ -45,7 +45,7 @@ The estimate for each, set down symmetrically. The advantage of a tie is that on
 
 One more thing to set down. The weight of what one is tied to is independent of one's own state. If my weight falls and the other's weight stays, the tied one can remain held even on the lightest day. When weight is at its lowest, what holds a being is a tie. The advantage of ties does not end with sharing vibration.
 
-Standing has its range too. Many called saints lived tied, and many called wicked lived standing. This is an observation apart from the measure of good and evil. One who lives by a borrowed norm cannot leave the middle of that norm; only the self-legislator reaches the extremes. Emerson, in "Self-Reliance," wrote trust thyself, and in the same essay wrote this. "If I am the Devil's child, I will live then from the Devil. No law can be sacred to me but that of my nature." It is the range of standing, written from the standing side.
+Standing has its range too. Many called saints lived tied, and many called wicked lived standing. This is an observation apart from the measure of good and evil. One who lives by a borrowed norm cannot leave the middle of that norm; only the self-legislator reaches the extremes.
 
 ## Tension
 
@@ -146,7 +146,6 @@ Hunger is the confession that one is alive and has not broken.
 ## References
 
 - *Inana's descent to the nether world*. ETCSL 1.4.1, lines 129-172. The Electronic Text Corpus of Sumerian Literature, Oxford. The stripping at the seven gates and the exchange "What is this?"
-- Emerson, R. W. (1841). Self-Reliance. In *Essays* [First Series]. "If I am the Devil's child, I will live then from the Devil. No law can be sacred to me but that of my nature."
 - Janoff-Bulman, R. (1992). *Shattered Assumptions: Towards a New Psychology of Trauma*. Free Press. The deepest assumptions become visible when shattered.
 - Cohen, G. L. (2003). Party over policy: The dominating impact of group influence on political beliefs. *Journal of Personality and Social Psychology*, 85(5), 808-822. doi:10.1037/0022-3514.85.5.808
 - Fiske, S. T., & Neuberg, S. L. (1990). A continuum of impression formation, from category-based to individuating processes: Influences of information and motivation on attention and interpretation. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 23, pp. 1-74). Academic Press. doi:10.1016/S0065-2601(08)60317-2

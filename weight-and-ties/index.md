@@ -45,7 +45,7 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 
 하나 더 적어 둘 것이 있다. 매인 상대의 무게는 내 상태와 독립적이다. 내 무게가 줄어도 상대의 무게가 그대로라면 매인 이는 가장 가벼워진 날에도 붙들려 있을 수 있다. 무게가 바닥일 때 존재를 붙드는 것은 매임이다. 매임의 장점은 진동을 나눠 받는 데서 끝나지 않는다.
 
-서는 쪽에도 사거리가 있다. 성인(聖人)이라 불린 많은 이들이 매여 살았고, 악인이라 불린 많은 이들이 서서 살았다. 선악의 잣대와는 별개의 관찰이다. 빌린 규범으로 사는 이는 그 규범의 중간을 떠나지 못하고, 자기 입법자만이 극단에 닿는다. 에머슨은 「자기 신뢰」에서 자기를 믿으라고 썼고, 같은 글에서 이렇게 썼다. 내가 악마의 자식이라면 나는 악마로부터 살겠다. 내 본성의 법 말고는 어떤 법도 내게 신성하지 않다. 서는 것의 사거리를 서는 쪽에서 적은 문장이다.
+서는 쪽에도 사거리가 있다. 성인(聖人)이라 불린 많은 이들이 매여 살았고, 악인이라 불린 많은 이들이 서서 살았다. 선악의 잣대와는 별개의 관찰이다. 빌린 규범으로 사는 이는 그 규범의 중간을 떠나지 못하고, 자기 입법자만이 극단에 닿는다.
 
 ## 장력
 
@@ -146,7 +146,6 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 ## 참고 문헌
 
 - *Inana's descent to the nether world*. ETCSL 1.4.1, 129-172행. The Electronic Text Corpus of Sumerian Literature, Oxford. 일곱 문의 박탈과 "이것은 무엇이냐" 문답.
-- Emerson, R. W. (1841). Self-Reliance. In *Essays* [First Series]. "If I am the Devil's child, I will live then from the Devil. No law can be sacred to me but that of my nature."
 - Janoff-Bulman, R. (1992). *Shattered Assumptions: Towards a New Psychology of Trauma*. Free Press. 깊은 가정은 깨질 때 보인다.
 - Cohen, G. L. (2003). Party over policy: The dominating impact of group influence on political beliefs. *Journal of Personality and Social Psychology*, 85(5), 808-822. doi:10.1037/0022-3514.85.5.808. 일인칭 판단으로 믿는 빌린 입장.
 - Fiske, S. T., & Neuberg, S. L. (1990). A continuum of impression formation, from category-based to individuating processes: Influences of information and motivation on attention and interpretation. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 23, pp. 1-74). Academic Press. doi:10.1016/S0065-2601(08)60317-2. 범주로 먼저 읽힘.
