@@ -41,7 +41,7 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 
 두 방향은 배타적이지 않다. 매인 힘과 자신의 무게가 합해진 힘이 진동과 겨루고, 어느 쪽이 더 크냐에 따라 버티기도 부서지기도 한다. 대다수는 두 힘을 어떤 비율로 섞어 쓴다.
 
-둘의 견적을 대칭으로 적는다. 매임의 장점은 매인 상대만큼 안정적이라는 것, 그리고 서로 매인 이들과 진동을 나눠 받는다는 것이다. 단점은 매인 상대에 종속된다는 것이다. 매여 있다는 것을 아는 순간 속박의 감각이 따라오고, 그 감각 자체가 비용이 된다. 서기의 장점은 독립이고, 단점은 진동을 홀로 받는다는 것이다. 선 이가 누군가의 매인 상대가 되면 그에게 매인 이들의 진동까지 함께 받는다. 그리고 매인 이는 읽히기 쉽다. 피스크와 뉴버그의 모형에서 사람은 남을 먼저 범주로 읽고, 개인으로 읽는 것은 품이 들 때만 한다. 매인 상대가 이름표가 되어 준다. 선 이는 읽는 쪽이 따로 품을 들여야 읽힌다. 선 이가 혼자인 이유가 진동을 혼자 받아서만은 아니다.
+둘의 견적을 대칭으로 적는다. 매임의 장점은 매인 상대만큼 안정적이라는 것, 그리고 서로 매인 이들과 진동을 나눠 받는다는 것이다. 단점은 매인 상대에 종속된다는 것이다. 매여 있다는 것을 아는 순간 속박의 감각이 따라오고, 그 감각 자체가 비용이 된다. 서기의 장점은 독립이고, 단점은 진동을 홀로 받는다는 것이다. 선 이가 누군가의 매인 상대가 되면 그에게 매인 이들의 진동까지 함께 받는다. 그리고 매인 이는 읽히기 쉽다. 매인 상대가 이름표가 되어 준다. 선 이는 읽는 쪽이 따로 품을 들여야 읽힌다. 선 이가 혼자인 이유가 진동을 혼자 받아서만은 아니다.
 
 하나 더 적어 둘 것이 있다. 매인 상대의 무게는 내 상태와 독립적이다. 내 무게가 줄어도 상대의 무게가 그대로라면 매인 이는 가장 가벼워진 날에도 붙들려 있을 수 있다. 무게가 바닥일 때 존재를 붙드는 것은 매임이다. 매임의 장점은 진동을 나눠 받는 데서 끝나지 않는다.
 
@@ -145,7 +145,6 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 
 - *Inana's descent to the nether world*. ETCSL 1.4.1, 129-172행. The Electronic Text Corpus of Sumerian Literature, Oxford. 일곱 문의 박탈과 "이것은 무엇이냐" 문답.
 - Janoff-Bulman, R. (1992). *Shattered Assumptions: Towards a New Psychology of Trauma*. Free Press. 깊은 가정은 깨질 때 보인다.
-- Fiske, S. T., & Neuberg, S. L. (1990). A continuum of impression formation, from category-based to individuating processes: Influences of information and motivation on attention and interpretation. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 23, pp. 1-74). Academic Press. doi:10.1016/S0065-2601(08)60317-2. 범주로 먼저 읽힘.
 - Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670-679. doi:10.1037/amp0000059. 좋아함과 원함의 분리.
 - Weil, S. (1950). *Attente de Dieu*. La Colombe. 「Formes de l'amour implicite de Dieu」 중 'Amour implicite et amour explicite' 절. "Le danger n'est pas que l'âme doute s'il y a ou non du pain, mais qu'elle se persuade par un mensonge qu'elle n'a pas faim."
 - Ovidius. *Metamorphoses* VIII, 183-235. 이카로스.
