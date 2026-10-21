@@ -69,7 +69,7 @@ This essay calls it hunger. One could call it pleasure, or wanting, but both mis
 
 Hunger is not a lack. Hunger is the hollow in which a being can fill up. An empty place pulls. To hunger is that pull, and to fill is that filling. The hollow is not of fixed size. Some hungers end when filled; some grow the more they are filled. This is observation, not classification. Any filling is filling. Only, if a hunger grows the more it is filled, the weight keeps growing too. A being that treats its hunger as a lack and makes it a shame finds that hollow hard to fill.
 
-The proof that hunger is not a lack is young life. The young are the hungriest and grow the fastest. A life without hunger does not grow. So having hunger is not a sign of shortage but a sign of room. There is still somewhere to fill. Living tied without knowing it, one does not feel hunger, because the lines bring the answers in its place.
+The proof that hunger is not a lack is young life. The young are the hungriest and grow the fastest. A life without hunger does not grow. So having hunger is not a sign of shortage but a sign of room. There is still somewhere to fill. Simone Weil wrote that a child does not stop crying when told there may be no bread. The danger, she wrote, is not that the soul should doubt whether there is bread, but that by a lie it should persuade itself it is not hungry. Not feeling hunger while living tied without knowing it is that lie. The lines bring the answers in its place, so the hunger goes unfelt.
 
 Hunger is neither weight nor line. It is the force that makes both. When the filling stays with oneself it becomes weight; when the filling fixes on a particular other it becomes a line. Which of the two the same hunger, the same event, becomes is decided not by the kind of hunger but by where the filling stays. The criterion of the earlier section applies as it is. Where does ratification come from. So the origin of lines is here too. A being is drawn to a being that can fill its hollow. When that pull fixes on the other, it is a line. Lines do not arise at random. They arise from hunger.
 
@@ -137,7 +137,7 @@ Whether it is weight or a tie, wind and vibration arrive regardless of will. Whe
 
 ## Confession
 
-The hunger artist never found the food he liked, and was hungry to the end. Meursault confessed neither remorse nor belief and confessed one thing, loneliness. The two stand in the same place.
+The hunger artist never found the food he liked, and was hungry to the end. Weil's child kept crying though told there might be no bread. Meursault confessed neither remorse nor belief and confessed one thing, loneliness. The three stand in the same place.
 
 Hunger is the confession that one is alive and has not broken.
 
@@ -149,6 +149,7 @@ Hunger is the confession that one is alive and has not broken.
 - Fiske, S. T., & Neuberg, S. L. (1990). A continuum of impression formation, from category-based to individuating processes: Influences of information and motivation on attention and interpretation. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 23, pp. 1-74). Academic Press. doi:10.1016/S0065-2601(08)60317-2
 - Townsend, R. M. (1994). Risk and insurance in village India. *Econometrica*, 62(3), 539-591. doi:10.2307/2951659
 - Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670-679. doi:10.1037/amp0000059. The dissociation of liking and wanting.
+- Weil, S. (1950). *Attente de Dieu*. La Colombe. In "Formes de l'amour implicite de Dieu," the section "Amour implicite et amour explicite." "Le danger n'est pas que l'âme doute s'il y a ou non du pain, mais qu'elle se persuade par un mensonge qu'elle n'a pas faim."
 - Ovidius. *Metamorphoses* VIII, 183-235. Icarus.
 - *Mencius*, Li Lou I. "言非禮義, 謂之自暴也. 吾身不能居仁由義, 謂之自棄也."
 - Camus, A. (1942). *Le Mythe de Sisyphe*. Gallimard. The opening, which frames suicide as a judgment on whether life is worth living.
