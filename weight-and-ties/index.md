@@ -119,7 +119,7 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 
 이 글은 처방하지 않는다. 처방하는 순간 서열이 생기고, 기술하는 동안만 견적이 남는다. 그래서 여기 적는 것은 회계다. 존재가 제 근간을 무언가에 비추어 값을 매기는 것은 정신의 피로다. 그 무언가에는 남만 들어가는 것이 아니다. 과거의 자신과 미래의 자신도 들어간다. 그 피로를 내려놓으면 근간에 더 집중할 수 있다. 즐겁다는 보장은 없다. 다만 우열을 재는 긴장 없이 삶을 받을 수는 있다. 반대로 셈해서 확신을 얻는 길도 있다. 선택은 각자의 몫이다.
 
-내려놓는 것이 의지로 되는지는 모른다. 웨그너의 백곰 실험에서, 생각하지 말자고 누르면 누르는 동안에도 떠오르고 누르기를 그치면 더 떠오른다. 다만 셈하고 있다는 것을 알아차리는 순간 셈이 느슨해지는 경우는 있다. 검열하고 감시하던 눈을 계속 느끼다 보면 어느 날 그 눈과 마주친다. 마주쳤다는 것은 그 눈이 더 이상 제 눈이 아니라는 뜻이다.
+내려놓는 것이 의지로 되는지는 모른다. 다만 셈하고 있다는 것을 알아차리는 순간 셈이 느슨해지는 경우는 있다. 검열하고 감시하던 눈을 계속 느끼다 보면 어느 날 그 눈과 마주친다. 마주쳤다는 것은 그 눈이 더 이상 제 눈이 아니라는 뜻이다.
 
 그리고 각주 하나. 서열 없음도 하나의 확신일 수 있다. 무엇을 붙잡아도 진동이 멎지 않는다는 것을 알고 그것을 정리하기 위해 쓰는 글이라도, 그 문장을 쥐면 다음 손잡이가 된다.
 
@@ -158,6 +158,5 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 - Aristoteles. *Ethica Nicomachea* X.7-8. 관조하는 삶.
 - Epicurus. *Epistula ad Menoeceum* (= Diogenes Laertius X.130-131). 빵과 물. 정원과 검소한 생활은 Diogenes Laertius X.10-11.
 - Galen, L. W., & Kloet, J. D. (2011). Mental well-being in the religious and the non-religious: Evidence for a curvilinear relationship. *Mental Health, Religion & Culture*, 14(7), 673-689. doi:10.1080/13674676.2010.510829. 확신의 정도가 가름.
-- Wegner, D. M., Schneider, D. J., Carter, S. R., III, & White, T. L. (1987). Paradoxical effects of thought suppression. *Journal of Personality and Social Psychology*, 53(1), 5-13. doi:10.1037/0022-3514.53.1.5. 백곰.
 
 <small>*이 글은 AI와 대화한 기록들을 재료로, 나와 AI가 변증법적으로 교전해서, AI의 손을 빌려서 타이핑했다.*</small>

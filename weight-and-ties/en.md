@@ -119,7 +119,7 @@ To rank pleasures is to hold a dogma. Dogma is closure, and closure, seen from i
 
 This essay does not prescribe. The moment one prescribes, a ranking appears; only while describing does the estimate remain. So what is written here is accounting. For a being to price its own ground against something is a fatigue of the mind. That something is not only others. It includes one's past self and one's future self. Set that fatigue down and one can attend more to the ground itself. There is no guarantee of enjoyment. But one can receive life without the strain of measuring better and worse. There is also the opposite road, of tallying one's way to certainty. The choice is each one's own.
 
-Whether setting it down can be done by will, I do not know. In Wegner's white bear experiment, when people pressed a thought down it surfaced even while they pressed, and surfaced more once they stopped. But there are cases where noticing that one is tallying loosens the tally. If one keeps feeling the eye that censored and watched, one day one meets that eye. To have met it means it is no longer one's own eye.
+Whether setting it down can be done by will, I do not know. But there are cases where noticing that one is tallying loosens the tally. If one keeps feeling the eye that censored and watched, one day one meets that eye. To have met it means it is no longer one's own eye.
 
 And one footnote. The absence of ranking can itself be a certainty. Even an essay written to sort out the knowledge that nothing one grasps will stop the vibration becomes the next handle if one grasps that sentence.
 
@@ -158,6 +158,5 @@ Hunger is the confession that one is alive and has not broken.
 - Aristoteles. *Ethica Nicomachea* X.7-8. The contemplative life.
 - Epicurus. *Epistula ad Menoeceum* (= Diogenes Laertius X.130-131). Bread and water. On the garden and the frugal life, Diogenes Laertius X.10-11.
 - Galen, L. W., & Kloet, J. D. (2011). Mental well-being in the religious and the non-religious: Evidence for a curvilinear relationship. *Mental Health, Religion & Culture*, 14(7), 673-689. doi:10.1080/13674676.2010.510829
-- Wegner, D. M., Schneider, D. J., Carter, S. R., III, & White, T. L. (1987). Paradoxical effects of thought suppression. *Journal of Personality and Social Psychology*, 53(1), 5-13. doi:10.1037/0022-3514.53.1.5
 
 <small>*This essay was written out of the records of conversations with an AI, through dialectical engagement between me and the machine, typed with the AI's borrowed hands.*</small>
