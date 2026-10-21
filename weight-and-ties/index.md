@@ -37,7 +37,7 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 
 둘을 가르는 것은 생각의 출처가 아니라 비준이 어디서 오느냐다. 어떤 생각이든 누군가에게서 왔다. 그 생각이 남의 비준을 필요로 할수록 매인 것이고, 스스로 입법하면 무게가 된다. "누가 그렇다고 해서, 그렇게 배워서"와 "내가 그렇게 보아서"의 차이다. 이것은 흑백이 아니라 방향이고, 밖에서는 가를 수 없다. "나는 무엇주의자다"라고 말하는 두 사람 중 누가 빌렸고 누가 소화했는지는 겉으로 구분되지 않는다. 안에서도 문장의 문법으로는 구분되지 않는다. 일인칭으로 말하면서 빌린 것을 말하는 일은 흔하다. 둘이 갈리는 순간은 매인 상대가 움직일 때다. 상대가 입장을 바꾸면 매인 이는 함께 움직이고, 입법한 이는 그 자리에 남거나 스스로 다시 입법한다.
 
-매임의 모양도 둘이다. 내가 그를 붙들고 그도 나를 붙들면 서로 매인 것이고, 진동을 나눠 받는다. 혼자라면 부서졌을 진동도 여럿이 나누면 견딜 만해진다. 집단에 소속되어 버티는 것의 장점이 여기 있다. 한 상대에 여럿이 매여 있다고 그들끼리 서로를 받쳐 주는 것은 아니다. 배 여러 척을 닻 하나에 묶으면 닻이 받는 힘이 커질 뿐이다. 나눠 받는 일은 여럿이 서로의 매인 상대일 때에만 생긴다. 내가 그에게 매여 있을 뿐이면 붙들리기는 하되 나눠 받지는 못한다. 그리고 서로 매인 구조는 하나가 흔들릴 때 강하고 모두가 한꺼번에 흔들릴 때 약하다. 나눠 받을 이들이 전부 같이 흔들리고 있기 때문이다. 타운센드가 인도 농촌에서 잰 것이 이것에 가깝다. 한 집의 흉작은 마을이 대체로 받쳤다. 마을 전체의 흉작은 그 셈 밖에 있었다.
+매임의 모양도 둘이다. 내가 그를 붙들고 그도 나를 붙들면 서로 매인 것이고, 진동을 나눠 받는다. 혼자라면 부서졌을 진동도 여럿이 나누면 견딜 만해진다. 집단에 소속되어 버티는 것의 장점이 여기 있다. 한 상대에 여럿이 매여 있다고 그들끼리 서로를 받쳐 주는 것은 아니다. 배 여러 척을 닻 하나에 묶으면 닻이 받는 힘이 커질 뿐이다. 나눠 받는 일은 여럿이 서로의 매인 상대일 때에만 생긴다. 내가 그에게 매여 있을 뿐이면 붙들리기는 하되 나눠 받지는 못한다. 그리고 서로 매인 구조는 하나가 흔들릴 때 강하고 모두가 한꺼번에 흔들릴 때 약하다. 나눠 받을 이들이 전부 같이 흔들리고 있기 때문이다.
 
 두 방향은 배타적이지 않다. 매인 힘과 자신의 무게가 합해진 힘이 진동과 겨루고, 어느 쪽이 더 크냐에 따라 버티기도 부서지기도 한다. 대다수는 두 힘을 어떤 비율로 섞어 쓴다.
 
@@ -146,7 +146,6 @@ description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동
 - *Inana's descent to the nether world*. ETCSL 1.4.1, 129-172행. The Electronic Text Corpus of Sumerian Literature, Oxford. 일곱 문의 박탈과 "이것은 무엇이냐" 문답.
 - Janoff-Bulman, R. (1992). *Shattered Assumptions: Towards a New Psychology of Trauma*. Free Press. 깊은 가정은 깨질 때 보인다.
 - Fiske, S. T., & Neuberg, S. L. (1990). A continuum of impression formation, from category-based to individuating processes: Influences of information and motivation on attention and interpretation. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 23, pp. 1-74). Academic Press. doi:10.1016/S0065-2601(08)60317-2. 범주로 먼저 읽힘.
-- Townsend, R. M. (1994). Risk and insurance in village India. *Econometrica*, 62(3), 539-591. doi:10.2307/2951659. 개별 충격은 나누고 공통 충격은 못 나눔.
 - Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670-679. doi:10.1037/amp0000059. 좋아함과 원함의 분리.
 - Weil, S. (1950). *Attente de Dieu*. La Colombe. 「Formes de l'amour implicite de Dieu」 중 'Amour implicite et amour explicite' 절. "Le danger n'est pas que l'âme doute s'il y a ou non du pain, mais qu'elle se persuade par un mensonge qu'elle n'a pas faim."
 - Ovidius. *Metamorphoses* VIII, 183-235. 이카로스.
