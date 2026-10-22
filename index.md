@@ -9,8 +9,8 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 <small>*쓸 수밖에 없는 것들 · Tasting Notes*</small>
 
 <div class="langs">
-<input type="radio" name="essays-lang" id="lang-ko" value="ko" checked>
-<input type="radio" name="essays-lang" id="lang-en" value="en">
+<input type="radio" name="essays-lang" id="lang-ko" value="ko">
+<input type="radio" name="essays-lang" id="lang-en" value="en" checked>
 <div class="lang-switch"><label for="lang-ko" lang="ko">한국어</label><span aria-hidden="true">·</span><label for="lang-en">English</label></div>
 
 <div class="list-ko" lang="ko" markdown="1">
@@ -51,8 +51,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
   var ko = document.getElementById('lang-ko'), en = document.getElementById('lang-en');
   var pick = null;
   try { pick = localStorage.getItem('essays-lang'); } catch (e) {}
-  if (!pick) pick = (navigator.language || '').toLowerCase().indexOf('ko') === 0 ? 'ko' : 'en';
-  (pick === 'en' ? en : ko).checked = true;
+  (pick === 'ko' ? ko : en).checked = true;
   [ko, en].forEach(function (el) {
     el.addEventListener('change', function () { try { localStorage.setItem('essays-lang', el.value); } catch (e) {} });
   });
