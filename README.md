@@ -4,7 +4,7 @@
 
 Personal essays, published via GitHub Pages: https://nonasking.github.io/essays/
 
-- **In a World Where the Server Room Stays Lit: On AI and Scarcity** — graded work is market price, and in market price the proxy wins. [Korean](https://nonasking.github.io/essays/server-room-lit/) / [English](https://nonasking.github.io/essays/server-room-lit/en/)
+- **In a World Where the Server Room Stays Lit: On AI and Scarcity** [Korean](https://nonasking.github.io/essays/server-room-lit/) / [English](https://nonasking.github.io/essays/server-room-lit/en/)
 - **Weight and Ties: On Hunger**. [Korean](https://nonasking.github.io/essays/weight-and-ties/) / [English](https://nonasking.github.io/essays/weight-and-ties/en/)
 - **A Hitchhiker's Guide to Talking with Humans, Not LLMs: Visibility**. [Korean](https://nonasking.github.io/essays/visibility/) / [English](https://nonasking.github.io/essays/visibility/en/)
 - **A Hitchhiker's Guide to Talking with Humans, Not LLMs: The Branches of *Geureohada*** (Korean only). [Korean](https://nonasking.github.io/essays/ways-of-saying-so/)

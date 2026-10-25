@@ -15,7 +15,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <div class="list-ko" lang="ko" markdown="1">
 
-- **[서버실의 불이 꺼지지 않는 세상에서: AI와 희소성에 대하여](./server-room-lit/)** — 채점되는 일은 시세고 시세는 프록시가 이긴다: 산출물은 복제되어도 존재는 복제되지 않는다. <small>2026-10</small>
+- **[서버실의 불이 꺼지지 않는 세상에서: AI와 희소성에 대하여](./server-room-lit/)** <small>2026-10</small>
 - **[무게와 매임: 허기에 대하여](./weight-and-ties/)** <small>2026-10</small>
 - **[LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 가시거리](./visibility/)** <small>2026-10</small>
 - **[LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 그러하다의 갈래들](./ways-of-saying-so/)** <small>2026-10</small>
@@ -32,7 +32,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <div class="list-en" lang="en" markdown="1">
 
-- **[In a World Where the Server Room Stays Lit: On AI and Scarcity](./server-room-lit/en/)** — graded work is market price, and in market price the proxy wins: what a being produces can be copied; the being cannot. <small>2026-10</small>
+- **[In a World Where the Server Room Stays Lit: On AI and Scarcity](./server-room-lit/en/)** <small>2026-10</small>
 - **[Weight and Ties: On Hunger](./weight-and-ties/en/)** <small>2026-10</small>
 - **[A Hitchhiker's Guide to Talking with Humans, Not LLMs: Visibility](./visibility/en/)** <small>2026-10</small>
 - **[A Hitchhiker's Guide to Talking with Humans, Not LLMs: The Branches of *Geureohada*](./ways-of-saying-so/)** (Korean only) <small>2026-10</small>
