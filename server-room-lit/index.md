@@ -139,6 +139,7 @@ AI와 존재를 한 자리에 두면 질문이 하나 따라온다. AI는 존재
 - Baumol, W. J., & Bowen, W. G. (1966). Performing Arts: The Economic Dilemma. New York: Twentieth Century Fund. / Baumol, W. J. (1967). Macroeconomics of Unbalanced Growth. *American Economic Review*, 57(3), 415–426.
 - Polanyi, M. (1966). The Tacit Dimension. Garden City, NY: Doubleday, p. 4.
 - Connolly, M., & Krueger, A. B. (2006). Rockonomics: The Economics of Popular Music. In *Handbook of the Economics of Art and Culture*, Vol. 1, 667–719. / Goldman Sachs. (2024). Music in the Air. / IFPI. (2025). Global Music Report.
+- Kelly, K. (2008-01-31). Better Than Free. *The Technium*. kk.org/thetechnium/better-than-free/ 복제가 공짜가 되면 복제되지 않는 것(몸, 현장)이 비싸진다.
 - IEA. (2025). Energy and AI. Paris: IEA. / FAO, IFAD, UNICEF, WFP & WHO. (2025). The State of Food Security and Nutrition in the World 2025. Rome: FAO.
 - Gibson, W. (1984). Neuromancer. New York: Ace Books, ch. 1. ("The body was meat.")
 
