@@ -19,7 +19,7 @@ What changed, in one line, is this. If I hand verification to the AI, it is accu
 
 ## Three Players
 
-This essay confines itself to work that can be graded: work whose answer lies outside, so that right or wrong can be settled. Does the code pass the tests, is the number correct, was it done by the deadline. I will call it grading when right or wrong gets settled, and verification when a person checks an AI's output. Most employment is graded work, so the examples come from employment. Work that cannot be graded is taken up later.
+The comparison in this essay is confined to work that can be graded: work whose answer lies outside, so that right or wrong can be settled. Does the code pass the tests, is the number correct, was it done by the deadline. I will call it grading when right or wrong gets settled, and verification when a person checks an AI's output. Most employment is graded work, so the examples come from employment. Work that cannot be graded is taken up later.
 
 There are three players. A is a person alone. B is a person plus AI: the person the earlier thesis recommended, who delegates but absorbs the process. C is AI alone. Cyberpunk fiction called the body in front of the machine meat. This essay calls something that moves on another's behalf a proxy. The earlier essay warned against people becoming AI's proxies. When meat becomes a proxy, meat atrophies. That warning still holds. This essay describes a world in which the warning holds and stops mattering. If the proxy is better than the original, the original's atrophy is not a tragedy but a line item.
 
