@@ -1,11 +1,11 @@
 ---
-title: "Hunger"
+title: "Weight and Ties: On Hunger"
 permalink: /weight-and-ties/en/
 lang: en
 description: "Hunger is not a lack but the hollow in which a being can fill up."
 ---
 
-# Hunger
+# Weight and Ties: On Hunger
 
 <small>[nonasking](https://github.com/nonasking) · 2026-10 · [한국어판](../)</small>
 
