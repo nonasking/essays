@@ -1,11 +1,11 @@
 ---
-title: 무게와 매임: 허기에 대하여
+title: 허기
 permalink: /weight-and-ties/
 lang: ko
 description: 허기는 결핍이 아니라 존재가 차오를 수 있는 공동이다.
 ---
 
-# 무게와 매임: 허기에 대하여
+# 허기
 
 <small>[nonasking](https://github.com/nonasking) · 2026-10 · [English version](./en/)</small>
 
