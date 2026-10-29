@@ -60,7 +60,7 @@ B가 다음 라운드에서 지는 것을 세 자료가 각각 다른 방향에�
 
 흡수 명제로 돌아간다. 위임하되 흡수하라. 그 처방에 대한 가장 흔한 반론은 이것이다. 이해할 수 있는 만큼만 위임하면 된다. 위임한 것을 전부 소화하면 된다.
 
-그 반론은 혼자 있을 때만 성립한다. 흡수에는 시간이 들고, 시간은 생산성이고, 생산성은 경쟁 조건이다. METR이 잰 것이 그 비용의 한 단면이다. 이해하는 범위에서만 쓰면 느리다. 그리고 모두가 전력으로 달리는 방 안에서 혼자 속도를 늦추는 사람은 느린 사람이 된다. 이 계산에는 오래된 이름이 있다. 래칫 효과. 계획경제의 공장은 올해 할당량을 초과하면 내년 할당량이 그에 맞춰 올라갔고, 그래서 공장장들은 일부러 덜 생산했다. 한 번 올라간 기준은 내려오지 않는다. 성과급 공장에서는 노동자들이 속도를 맞춰 늦췄다. 테일러는 그것을 체계적 태업이라 불러 고치려 했고, 로이는 1940년대 중반 기계 공장에 노동자로 들어가 생산량을 어떻게 조절하는지 기록했으며, 호손 공장의 배선실에서는 너무 빨리 일하는 사람을 동료들이 "레이트 버스터(rate buster)"라 불러 눌렀다. 속도가 밖으로 드러나면 그 속도가 단가가 된다. AI가 이 계산을 날카롭게 만든 것은 속도가 오르는 폭이 전과 비교가 안 되기 때문이다. 다만 래칫 회피는 경쟁자가 없을 때만 안전하다. 경쟁자가 붙으면 늦추는 쪽이 먼저 밀린다. 시장에서는 빠르게 내놓는 쪽이 먼저 파이에 입을 댄다.
+그 반론은 혼자 있을 때만 성립한다. 흡수에는 시간이 들고, 시간은 생산성이고, 생산성은 경쟁 조건이다. METR이 잰 것이 그 비용의 한 단면이다. 이해하는 범위에서만 쓰면 느리다. 그리고 모두가 전력으로 달리는 방 안에서 혼자 속도를 늦추는 사람은 느린 사람이 된다. 다 같이 늦추는 길이 없지는 않았다. 계획경제의 공장은 올해 할당량을 초과하면 내년 할당량이 그에 맞춰 올라갔고, 그래서 공장장들은 일부러 덜 생산했다. 성과급 공장의 노동자들도 속도를 맞춰 늦췄다. 속도가 밖으로 드러나면 그 속도가 단가가 되기 때문이다. 경제학은 이것을 래칫 효과라 부른다. AI가 이 계산을 날카롭게 만든 것은 속도가 오르는 폭이 전과 비교가 안 되기 때문이다. 다만 래칫 회피는 경쟁자가 없을 때만 안전하다. 경쟁자가 붙으면 늦추는 쪽이 먼저 밀린다. 시장에서는 빠르게 내놓는 쪽이 먼저 파이에 입을 댄다.
 
 그러면 흡수의 효용은 생존이 아니라 다른 데 있다. 흡수한 사람도 결국 에이전트보다 비싸다면 흡수는 밥그릇을 지키지 못한다. 흡수가 지키는 것은 눈이다. 불이 켜져 있는데 출력이 이상해진 날, 그것을 알아볼 눈. 다만 그 눈에 가격을 매기는 것은 시장이다. 캐셔를 고용할 때 포스기가 고장 날 걸 대비해서 암산을 더 잘 하는 사람을 우대하는 경우는 드물다.
 
@@ -117,9 +117,6 @@ SNS에서 서로의 AI가 더 낫다는 포켓몬 대전과 AI의 오류를 꼬�
 - Kirk, R., Mediratta, I., Nalmpantis, C., Luketina, J., Hambro, E., Grefenstette, E., & Raileanu, R. (2024). Understanding the Effects of RLHF on LLM Generalisation and Diversity. ICLR 2024. arXiv:2310.06452. / Zhang, J. et al. (2025). Verbalized Sampling. arXiv:2510.01171. ("mode collapse" 용어)
 - Soros, G. (1987). The Alchemy of Finance. New York: Simon & Schuster.
 - Berliner, J. S. (1957). Factory and Manager in the USSR. Cambridge, MA: Harvard University Press. / Weitzman, M. L. (1980). The "Ratchet Principle" and Performance Incentives. *Bell Journal of Economics*, 11(1), 302–308.
-- Taylor, F. W. (1911). The Principles of Scientific Management. New York: Harper & Brothers. ("systematic soldiering"; 초출은 Shop Management, 1903)
-- Roy, D. (1952). Quota Restriction and Goldbricking in a Machine Shop. *American Journal of Sociology*, 57(5), 427–442.
-- Roethlisberger, F. J., & Dickson, W. J. (1939). Management and the Worker. Cambridge, MA: Harvard University Press, p. 522, ch. XXII. ("rate-buster")
 - Ricardo, D. (1817). On the Principles of Political Economy and Taxation. London: John Murray. Ch. II, VI.
 - Baumol, W. J., & Bowen, W. G. (1966). Performing Arts: The Economic Dilemma. New York: Twentieth Century Fund. / Baumol, W. J. (1967). Macroeconomics of Unbalanced Growth. *American Economic Review*, 57(3), 415–426.
 - Polanyi, M. (1966). The Tacit Dimension. Garden City, NY: Doubleday, p. 4.
