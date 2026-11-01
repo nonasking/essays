@@ -15,6 +15,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <div class="list-ko" lang="ko" markdown="1">
 
+- **[전율](./tremor/)** <small>2026-11</small>
 - **[서버실의 불이 꺼지지 않는 세상에서: AI와 희소성에 대하여](./server-room-lit/)** <small>2026-10</small>
 - **[무게와 매임: 허기에 대하여](./weight-and-ties/)** <small>2026-10</small>
 - **[LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 가시거리](./visibility/)** <small>2026-10</small>
@@ -32,6 +33,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <div class="list-en" lang="en" markdown="1">
 
+- **[Tremor](./tremor/en/)** <small>2026-11</small>
 - **[In a World Where the Server Room Stays Lit: On AI and Scarcity](./server-room-lit/en/)** <small>2026-10</small>
 - **[Weight and Ties: On Hunger](./weight-and-ties/en/)** <small>2026-10</small>
 - **[A Hitchhiker's Guide to Talking with Humans, Not LLMs: Visibility](./visibility/en/)** <small>2026-10</small>
