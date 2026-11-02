@@ -65,7 +65,7 @@ So the condition of the tremor is not size. It is difference. When something unl
 
 ## Fear and Pull
 
-Then the fear has to be written again. In front of the large, the fear is that I will break; in front of the small, that the other will. Bind the two into one and the fear mixed into the tremor is the body's signal that at this distance something irreversible can happen. To whom it happens varies. In front of the large, to me; in front of the small, to it. The signal itself is indifferent to which.
+Then the fear has to be written again. In front of the large, the fear is that I will break; in front of the small, that the other will. Bind the two into one and the fear mixed into the tremor is the body's signal that at this distance something irreversible can happen. To whom it happens varies. The signal itself is indifferent to which.
 
 This is why the two do not mix. The pull is a move to close the distance, and the fear comes from knowing the price of that distance. Attraction and price are different kinds of information, so they cannot be added. As direction and price cannot be added into one number. So the two come together, and so they do not merge, and so the body standing there cannot produce a single output and trembles.
 
