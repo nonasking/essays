@@ -10,6 +10,24 @@
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {%- comment -%} 한/영 쌍이 있으면 검색엔진에 서로를 번역본으로 알린다. 한국어판은 /<slug>/, 영문판은 /<slug>/en/ 이다. {%- endcomment -%}
+  {%- assign url_parts = page.url | split: "/" -%}
+  {%- assign ko_url = "" -%}
+  {%- if page.lang == "en" and url_parts.size == 3 and url_parts[2] == "en" -%}
+    {%- assign ko_url = "/" | append: url_parts[1] | append: "/" -%}
+  {%- elsif page.lang == "ko" and url_parts.size == 2 -%}
+    {%- assign ko_url = page.url -%}
+  {%- endif -%}
+  {%- if ko_url != "" -%}
+    {%- assign en_url = ko_url | append: "en/" -%}
+    {%- assign ko_page = site.pages | where: "url", ko_url | first -%}
+    {%- assign en_page = site.pages | where: "url", en_url | first -%}
+    {%- if ko_page and en_page %}
+  <link rel="alternate" hreflang="ko" href="{{ ko_url | absolute_url }}">
+  <link rel="alternate" hreflang="en" href="{{ en_url | absolute_url }}">
+    {%- endif -%}
+  {%- endif %}
   {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% endif %}
   <meta name="twitter:card" content="summary">
   <link rel="preconnect" href="https://fonts.googleapis.com">
