@@ -146,6 +146,8 @@ description: 같은 말로도 상대의 마음을 깎을 수도 있고 어루만
 
 간접성에는 두 가지 큰 이득이 있다고 한다. 라포르와 자기방어다(Tannen 1986). 라포르는 설명하지 않고도 이해받고 청하지 않고도 얻는 만족이다. 방어는 자기 말이 잘 받아들여지지 않을 때 물러서서 체면을 지킬 수 있는 것이다(Tannen 1981). 기다린 사람이 "요즘 많이 바쁜가 봐"라는 말로 '서운하다'는 메시지를 전하려 할 때, 늦은 사람이 알아듣고 사과하면 기다린 사람은 말하지 않고도 이해받는다. 알아듣지 못하거나 언짢아하면 "그냥 안부였어"라고 물러설 수 있다.
 
+라포르가 낭만으로 읽히는 자리도 있다. 나츠메 소세키가 "I love you"를 "달이 아름답네요"로 옮기라고 했다는 이야기가 널리 전해진다. 출처가 확인되지 않은 일화인데도 사람들은 이 이야기를 아낀다. 명제를 지우고 받는 이만 남긴 말, 알아들으면 둘만의 것이 되는 말이기 때문이다. 『위대한 개츠비』의 개츠비는 데이지의 집이 보이는 만 건너편에 집을 사고, 데이지가 어느 밤 우연히라도 들르기를 바라며 파티를 연다. 와 달라는 말은 한 번도 직접 하지 않는다. 그 뜻을 아는 것은 독자다. 화자가 알려 주기 때문이다. 묵시가 낭만으로 읽히려면 영수증이 있어야 한다. 이 장면은 영수증을 쥔 독자가 풀 때 낭만이 된다. 다만 현실에는 독자가 없다. 현실의 개츠비가 "그런 뜻은 아니었어요"라고 물러서거나, 현실의 데이지가 그가 꺼내 보인 셔츠 더미에 얼굴을 묻고 울지 않으면 낭만은 성립하지 않는다.
+
 명시 쪽 끝에도 값이 있다. 말은 내용을 싣는 데는 정밀하지만 관계를 싣는 데는 서툴다(Watzlawick, Beavin & Jackson 1967). 그래서 명시로 쓴 말은 차갑다는 소리를 듣기 쉽다. 온도를 실으려고 묵시 쪽으로 내려가면 받는 쪽이 풀어야 할 것이 늘어난다. 남는 길은 관계를 명제로 옮겨 적는 것이다. 서운함은 표정으로 보일 수도 있고 "서운했다"는 문장으로 적을 수도 있다.
 
 묵시 쪽을 고르는 까닭이 무게만은 아니다.
@@ -157,6 +159,8 @@ description: 같은 말로도 상대의 마음을 깎을 수도 있고 어루만
 명제보다 관계가 먼저일 때가 있다. 관계는 표정과 몸에 더 잘 실린다. 늦은 사람이 들어서자 기다린 사람이 말없이 웃으며 자리를 내준다. 전하려는 것은 '괜찮다, 와서 반갑다'이다.
 
 명제가 말하는 사람 혼자의 것이 아닐 때도 있다. 늦은 까닭이 식구의 사정이라면, 그 사정은 늦은 사람이 꺼낼 말이 아니다. "집에 일이 좀 있어서"는 참이고 해상도만 낮다. 전하려는 것은 '늦을 만한 까닭이 있었다'까지다. 사적인 정보는 여럿이 함께 가진 것이 될 수 있고, 함께 가진 사람들은 그것을 더 퍼뜨릴지에 관한 규칙에 묶인다는 이론이 있다(Petronio 2002). 그 틀을 빌리면, 이때 빠진 부분은 걸림을 덜려고 뗀 것이 아니라 문장 바깥 사람의 몫이라 싣지 않은 것이다. 같은 자리에서 "그건 내가 할 얘기가 아니야"라고 하면 가린다는 사실이 명시된다. 전하려는 것은 '까닭은 있지만 내가 말할 수 없다'이다. 격률에서 빠지겠다고 밝히는 길이다. "더는 말할 수 없다. 내 입은 봉해졌다"(Grice 1975).
+
+자리를 바꿔 앉는 일도 있다. 늦은 사람이 "늦으려던 건 아니었어"라고 한다. 자기 행동은 보낸 뜻으로 잰다. 그리고 기다린 사람의 "요즘 많이 바쁜가 봐"에는 "그 말 좀 서운하더라"라고 한다. 남의 말은 받은 뜻으로 잰다. 둘 다 틀린 말은 아니다. 다만 한 사람이 자기 쪽에서는 보내는 자리에, 상대 쪽에서는 받는 자리에 앉으면 두 장부가 서로 다른 잣대로 적힌다. 사람은 자기를 잴 때 의도를 크게 치고 남을 잴 때 행동을 크게 친다(Kruger & Gilovich 2004). 묵시가 오가는 자리에서 그 차이는 커진다. 명시에서는 보낸 뜻과 받은 뜻이 한 문장에 묶여 있어서 바꿔 앉을 틈이 적다.
 
 받는 쪽에도 몫이 있다. 일반화한 말이 자기 것인지 정할 때 근거를 따지는 것, 침묵을 한 가지 뜻으로 못 박지 않는 것이 그 몫이다.
 
@@ -200,7 +204,9 @@ description: 같은 말로도 상대의 마음을 깎을 수도 있고 어루만
 - Lakoff, R. (1973). The logic of politeness; or, minding your p's and q's. In C. Corum, T. C. Smith-Stark, & A. Weiser (Eds.), *Papers from the Ninth Regional Meeting of the Chicago Linguistic Society* (pp. 292-305). Chicago Linguistic Society.
 - Tannen, D. (1986). *That's not what I meant! How conversational style makes or breaks your relations with others*. William Morrow.
 - Tannen, D. (1981). Indirectness in discourse: Ethnicity as conversational style. *Discourse Processes*, 4(3), 221-238.
+- Fitzgerald, F. S. (1925). *The great Gatsby*. Charles Scribner's Sons.
 - Égré, P., Spector, B., Mortier, A., & Verheyen, S. (2023). On the optimality of vagueness: "around", "between" and the Gricean maxims. *Linguistics and Philosophy*, 46(5), 1075-1130. doi:10.1007/s10988-022-09379-6
 - Petronio, S. (2002). *Boundaries of privacy: Dialectics of disclosure*. State University of New York Press.
+- Kruger, J., & Gilovich, T. (2004). Actions, intentions, and self-assessment: The road to self-enhancement is paved with good intentions. *Personality and Social Psychology Bulletin*, 30(3), 328-339. doi:10.1177/0146167203259932
 
 <small>*이 글은 AI와 대화한 기록들을 재료로, 나와 AI가 변증법적으로 교전해서, AI의 손을 빌려서 타이핑했다.*</small>
