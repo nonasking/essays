@@ -198,7 +198,7 @@ Who is carrying, right now, the weight that could have been lifted?
 - Bonalumi, F., Scott-Phillips, T., Tacha, J., & Heintz, C. (2020). Commitment and communication: Are we committed to what we mean, or what we say? *Language and Cognition*, 12(2), 360-384. doi:10.1017/langcog.2020.2
 - Bonalumi, F., Bumin, F. B., Scott-Phillips, T., & Heintz, C. (2023). Communication and deniability: Moral and epistemic reactions to denials. *Frontiers in Psychology*, 13, 1073213. doi:10.3389/fpsyg.2022.1073213
 - Reins, L. M., & Wiegmann, A. (2021). Is lying bound to commitment? Empirically investigating deceptive presuppositions, implicatures, and actions. *Cognitive Science*, 45(2), e12936. doi:10.1111/cogs.12936
-- Kennedy, C. (2011). Ambiguity and vagueness: An overview. In C. Maienborn, K. von Heusinger, & P. Portner (Eds.), *Semantics: An international handbook of natural language meaning* (Vol. 1, pp. 507-534). De Gruyter Mouton. doi:10.1515/9783110226614.507
+- Kennedy, C. (2011). Ambiguity and vagueness: An overview. In C. Maienborn, K. von Heusinger, & P. Portner (Eds.), *Semantics: An international handbook of natural language meaning* (Vol. 1, pp. 507-535). De Gruyter Mouton. doi:10.1515/9783110226614.507
 - Sennet, A. (2021). Ambiguity. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/ambiguity/
 - Isaacs, E. A., & Clark, H. H. (1990). Ostensible invitations. *Language in Society*, 19(4), 493-509. doi:10.1017/S0047404500014780
 - Lakoff, R. (1973). The logic of politeness; or, minding your p's and q's. In C. Corum, T. C. Smith-Stark, & A. Weiser (Eds.), *Papers from the Ninth Regional Meeting of the Chicago Linguistic Society* (pp. 292-305). Chicago Linguistic Society.
