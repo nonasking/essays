@@ -86,6 +86,8 @@ description: 애매한 말은 골라야 하고, 모호한 말은 선을 그어�
 
 세 일에 공통된 자원은 맥락이다. 맥락이 모자라면 중의성과 모호성을 구별할 수 없다는 분석은(도재학 2018) 받는 쪽에서 보면 이렇게 읽힌다. 어떤 일을 해야 하는지를 알기 위해서도 먼저 맥락이 있어야 한다. 모호한 표현이 정밀한 표현보다 뜻을 더 잘 전할 때가 있고, 그 성공은 공통 기반을 얼마나 활용하느냐에 달려 있다는 연구도 같은 자리를 가리킨다(Jucker, Smith & Lüdge 2003). 맥락을 나눠 가진 사이에서 흐린 말은 짧고 정확하다. 그렇지 않은 사이에서는 맥락 없이 해석 노동을 해야 하니 일거리다.
 
+나눠 가진 맥락이 많을수록 말은 짧아진다. 같은 도형을 거듭 가리키게 한 실험에서 한 도형에 쓴 말은 첫 회 평균 41낱말에서 여섯째 회 8낱말로 줄었다(Clark & Wilkes-Gibbs 1986). 친구를 위해 쓴 설명은 낯선 사람이 쓴 설명보다 그 친구가 더 잘 알아봤다(Fussell & Krauss 1989). 다만 맥락이 많다는 믿음은 맥락보다 앞서 간다. 아는 것이 많이 겹치는 짝은 상대가 모르는 이름까지 써서 상대를 더 자주 헷갈리게 했다(Wu & Keysar 2007). 애매한 말로 뜻을 전하게 한 실험에서 말한 사람은 배우자가 낯선 사람보다 잘 알아들으리라 기대했지만, 실제로 알아들은 정도는 배우자와 낯선 사람이 다르지 않았다(Savitsky, Keysar, Epley, Carter & Swanson 2011). 오래된 사이의 말이 짧은 것은 맥락이 많아서이고, 그 짧은 말이 어긋나는 것은 맥락이 그만큼 많다고 믿어서다.
+
 흐린 말은 결함이 아니다. 영어의 흐린 말을 모아 분석한 책은 그것이 전부 나쁜 것도 전부 좋은 것도 아니라고 적는다(Channell 1994). 앞 편에서 본 대로 정확히 모르는 사람에게는 모호한 말이 더 정직한 말이고, 좀과 뭐와 그런 거는 듣는 사람의 체면을 지키는 데 쓰인다. 울타리말의 두 갈래(Prince, Frader & Bosk 1982)는 여기서 다시 갈린다. 내용을 흐리는 말은 받는 사람에게 일을 맡기고, 말하는 사람과 내용 사이를 흐리는 말은 말하는 사람이 자기 말에 얼마나 걸릴지를 줄인다. 뒤쪽은 첫 편의 일이었다. 그렇더라와 그렇대가 하는 일이 그것이다.
 
 둘째 편의 틀로 돌리면, 세 길은 받는 쪽이 풀어야 하는 것의 세 종류다. 고르기와 선 긋기와 채우기는 모두 보낸 사람이 하지 않은 일이다. 그래서 보낸 사람은 받은 사람이 고른 읽기를, 그은 선을, 채운 빈칸을 나중에 물릴 수 있다. 받은 사람은 자기가 풀어 놓은 것이 그 사람의 말이었다는 것을 보일 수 없다. 받은 쪽의 장부에만 적혀 있고 둘 사이의 기록에는 없다.
@@ -150,6 +152,10 @@ description: 애매한 말은 골라야 하고, 모호한 말은 선을 그어�
 - Kim, M. (2020). Korean general extenders *tunci ha* and *kena ha* 'or something': Approximation, hedging, and pejorative stance in cross-linguistic comparison. *Pragmatics*, 30(4), 557-585. doi:10.1075/prag.18035.kim
 - Overstreet, M. (1999). *Whales, candlelight, and stuff like that: General extenders in English discourse*. Oxford University Press.
 - Jucker, A. H., Smith, S. W., & Lüdge, T. (2003). Interactive aspects of vagueness in conversation. *Journal of Pragmatics*, 35(12), 1737-1769.
+- Clark, H. H., & Wilkes-Gibbs, D. (1986). Referring as a collaborative process. *Cognition*, 22(1), 1-39. doi:10.1016/0010-0277(86)90010-7
+- Fussell, S. R., & Krauss, R. M. (1989). Understanding friends and strangers: The effects of audience design on message comprehension. *European Journal of Social Psychology*, 19(6), 509-525. doi:10.1002/ejsp.2420190603
+- Wu, S., & Keysar, B. (2007). The effect of information overlap on communication effectiveness. *Cognitive Science*, 31(1), 169-181. doi:10.1080/03640210709336989
+- Savitsky, K., Keysar, B., Epley, N., Carter, T., & Swanson, A. (2011). The closeness-communication bias: Increased egocentrism among friends versus strangers. *Journal of Experimental Social Psychology*, 47(1), 269-273. doi:10.1016/j.jesp.2010.09.005
 - Channell, J. (1994). *Vague language*. Oxford University Press.
 - Beach, W. A. (1993). Transitional regularities for 'casual' "Okay" usages. *Journal of Pragmatics*, 19(4), 325-352. doi:10.1016/0378-2166(93)90092-4
 - Oloff, F. (2019). Okay as a neutral acceptance token in German conversation. *Lexique*, 25, 197-225.
