@@ -111,7 +111,7 @@ Korean has sorted what sensitivity does into separate words. The sensor is calle
 
 And there is *singyeong-eul sseuda* and *singyeong-i sseuida*: to spend one's nerves on something, and for one's nerves to get spent on it. The first is something one does; the second is something that happens. The phrase for switching one's nerves off attaches only to the first. What gets spent on its own cannot be switched off by oneself, so one says it to others: make it so my nerves don't get spent on this.
 
-Neither the watching nor the nerves getting spent switches off for the wanting. The fatigue of a sensitive person comes from what will not switch off going on reading.
+Neither the watching nor the nerves getting spent switches off for the wanting. The fatigue of a sensitive person is the fatigue of reading.
 
 ## The ledger
 
