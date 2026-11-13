@@ -7,7 +7,7 @@ description: 손끝만 스쳐도 우는 악기에 대하여. 한 성질에서 �
 
 # 예민함
 
-<small>[nonasking](https://github.com/nonasking) · 2026-11</small>
+<small>[nonasking](https://github.com/nonasking) · 2026-11 · [English version](./en/)</small>
 
 <small>*작성 과정에 AI를 깊이 활용한 글입니다. 정확히 어떻게였는지는 글 끝에 밝혀 두었습니다.*</small>
 

@@ -35,7 +35,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <div class="list-en" lang="en" markdown="1">
 
-- **[Sensitivity](./sensitivity/)** (Korean only) <small>2026-11</small>
+- **[Sensitivity](./sensitivity/en/)** <small>2026-11</small>
 - **[A Hitchhiker's Guide to Talking with Humans, Not LLMs: Blurred Words](./blurred-words/)** (Korean only) <small>2026-11</small>
 - **[Tremor](./tremor/en/)** <small>2026-11</small>
 - **[In a World Where the Server Room Stays Lit: On AI and Scarcity](./server-room-lit/en/)** <small>2026-10</small>
