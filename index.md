@@ -15,6 +15,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <div class="list-ko" lang="ko" markdown="1">
 
+- **[예민함](./sensitivity/)** <small>2026-11</small>
 - **[LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 흐린 말](./blurred-words/)** <small>2026-11</small>
 - **[전율](./tremor/)** <small>2026-11</small>
 - **[서버실의 불이 꺼지지 않는 세상에서: AI와 희소성에 대하여](./server-room-lit/)** <small>2026-10</small>
@@ -34,6 +35,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <div class="list-en" lang="en" markdown="1">
 
+- **[Sensitivity](./sensitivity/)** (Korean only) <small>2026-11</small>
 - **[A Hitchhiker's Guide to Talking with Humans, Not LLMs: Blurred Words](./blurred-words/)** (Korean only) <small>2026-11</small>
 - **[Tremor](./tremor/en/)** <small>2026-11</small>
 - **[In a World Where the Server Room Stays Lit: On AI and Scarcity](./server-room-lit/en/)** <small>2026-10</small>
