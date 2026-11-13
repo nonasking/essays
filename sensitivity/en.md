@@ -13,7 +13,7 @@ description: "On an instrument that sounds at the brush of a fingertip. The use 
 
 A sensitive person eats bread. They take in its smell, its texture, its shape. "The butter is different from yesterday's. It proofed less than usual. The shaping is finer than yesterday's." All that sensing and reading can be a pleasure. All that sensing and reading can be tiring. The pleasure and the fatigue come from the same bread. Both arrive before any choosing. What can be chosen comes after. Which one to stay with, whether to say it or swallow it. If they say what came to mind in the bakery, they may be told they are being oversensitive and shown the door. They may be thanked for saying so and handed a cookie. Whether to speak can be chosen. The baker's response cannot.
 
-A less sensitive person eats bread. "It's bread." They walk out of the bakery.
+A less sensitive person eats bread. "It's bread."
 
 ## An infant's senses
 
@@ -23,13 +23,13 @@ So sensitivity is not a specification of the few but everyone's starting point. 
 
 A distinction survives by one of two roads. The ones kept in use because they gave pleasure survive, and the ones that could not be dropped without getting hurt survive. The discrimination of the gourmet and the discrimination of the alarm.
 
-Distinctions do not only dull. There is also a road by which they are honed. A hand once burned draws back first even from what is merely warm. It has not dulled less; it has been honed by the wound.
+Distinctions do not only dull. Among the discriminations of the alarm there is a branch that gets honed. A hand that remembers a burn and stays on guard draws back even from what is merely warm. The wound has made the discrimination sharper.
 
-Whichever road it came by, the pattern has something in common. Whether sensitivity turns out a curse or a blessing, whether others welcome it or shut it out, depends not on the sensitivity itself but on something else.
+Whichever road it came by, the pattern has something in common. Whether sensitivity turns out a curse or a blessing, whether others welcome it or shut it out, does not depend on the sensitivity itself.
 
 ## Time
 
-Someone who has dulled less reads more of the same world and gathers more from the same day. In that sense they live a longer life in the same ten years.
+A sensitive person reads more of the same world and gathers more from the same day. In that sense they live a longer life in the same ten years.
 
 That is why childhood stays long. A year full of firsts is intricate and long when you look back. A year with fewer firsts, looked back on, has its days clumped together without distinction, and the whole year shrinks to a few scenes.
 
@@ -39,7 +39,7 @@ The first has their senses reset every day. Memory stays. They begin each day wi
 
 The second accumulates their senses with no reset. They begin each day carrying what they felt the day before. A stimulus met yesterday is familiar. Repeated, it becomes habit. Seasoned.
 
-The first person's ten years are denser, and so longer, and so heavier. Someone who has dulled less stands between the two, nearer the first. Whether that is fun or fatigue is a separate matter.
+The first person's ten years are denser, longer, heavier. A sensitive person stands between the two, nearer the first. Whether that time is fun or fatigue is a separate matter.
 
 ## The instrument
 
@@ -49,7 +49,7 @@ A taut string gives different sounds for minute differences, and once set trembl
 
 The same trait does other work too. An instrument that sounds at a fingertip also sounds at a passing wind. A sound that lingers lets the unwelcome sound linger too. At a single passing wind the instrument cries and tosses all night. A taut string snaps easily, and a thin soundboard is the first to warp in the damp.
 
-Thicken the board and it sounds less, to the wind and to the fingertip alike. The fineness that gave a different sound for fingertip and for fingernail goes, the creaking through the night goes, and it becomes a different instrument from before. You cannot keep the fineness and remove only the noise. They are two faces of one instrument.
+Thicken the board and it sounds less, to the wind and to the fingertip alike. The fineness that gave a different sound for fingertip and for fingernail goes, the creaking through the night goes, and it becomes a different instrument from before. You cannot keep the fineness and remove only the noise.
 
 There is one more way to make it quiet. Loosen the strings and it does not sound in the wind. But the wind blows even on loosened strings. A loosened string is not silent in the wind; it trembles without pitch. The trembling does not go away. Only the sound and the note go. And a loosened string gives no note to the fingertip either. With no resonance, no fingertip can draw any note from it.
 
@@ -59,7 +59,7 @@ Someone is shown a white wall and asked whether it is clean. Ninety-nine say yes
 
 The same eye sees other things too. It finds geometry in the veins of a fallen leaf and stops. The ear that hears a note out of place in a celebrated symphony is also the ear that hears harmony in birdsong.
 
-The eye that sees the speck and the eye that sees the grain are the same eye. Being one eye, it cannot choose only one side.
+The eye that sees the speck and the eye that sees the grain are the same eye.
 
 ## The actor
 
@@ -67,7 +67,7 @@ Suppose a person of high emotional reactivity becomes an actor. For that person,
 
 A large amplitude leaves a large reverberation. It happens to that actor that the role does not leave after the curtain falls. Reduce the response and the reverberation shrinks. So does the resonance that reaches the seats.
 
-The stage does not cancel this price. What the stage does is exchange that price for gold.
+The stage does not cancel this price. It exchanges that price for gold instead.
 
 ## The room
 
@@ -103,27 +103,29 @@ There are studies that have tried to measure sensitivity.
 
 When the senses of people who report themselves sensitive are actually measured, they do not hear fainter sounds or catch fainter smells. How sensitive people said they were and the thresholds of their sense organs went separate ways. Sensitivity was not measured by the height of the threshold.
 
-Measurement has also split sensitivity in two. The side that notices subtle things and the side that is shaken hard. In one study the two ran independently. That means many people have only one. But look at the questionnaire items that divided the two sides: on one side the items end well ("notice and enjoy delicate scents") and on the other they end badly ("made uncomfortable by loud noises"). Whether that line divides the amplitude of the resonance or divides its evaluation was not measured. And the bad side overlaps with one dimension of the personality tests. That dimension's name came from the hospital. Neuroticism.
+Measurement has also split sensitivity in two. The side that notices subtle things and the side that is shaken hard. In one study the two ran independently. That means many people have only one. But look at the questionnaire items that divided the two sides: on one side the items pair sensitivity with a positive evaluation ("notice and enjoy delicate scents") and on the other with a negative one ("made uncomfortable by loud noises"). Whether that line divides the amplitude of the resonance or divides its evaluation was not measured. The side this measurement counted as bad overlaps with one dimension of the personality tests. That dimension's name came from the hospital. Neuroticism.
 
 ## Words
 
-Korean has sorted what sensitivity does into separate words. The sensor is called *nunchi*. To *have* nunchi is the instrument's specification; to *catch* nunchi is a single capture; to *watch* nunchi is to keep reading. The fatigue of a sensitive person comes from going on watching after the catch.
+Korean has sorted what sensitivity does into separate words. The sensor is called *nunchi*. To *have* nunchi is the instrument's specification; to *catch* nunchi is a single capture; to *watch* nunchi is to keep reading.
 
 And there is *singyeong-eul sseuda* and *singyeong-i sseuida*: to spend one's nerves on something, and for one's nerves to get spent on it. The first is something one does; the second is something that happens. The phrase for switching one's nerves off attaches only to the first. What gets spent on its own cannot be switched off by oneself, so one says it to others: make it so my nerves don't get spent on this.
 
+Neither the watching nor the nerves getting spent switches off for the wanting. The fatigue of a sensitive person comes from what will not switch off going on reading.
+
 ## The ledger
 
-The price of sensitivity exists. The instrument that sounds at a fingertip sounds at the wind too, a long life is a heavy life, and a large amplitude leaves a large reverberation.
+The price of sensitivity exists. The instrument that sounds at a fingertip sounds at the wind too, a long life is heavy, and a large amplitude leaves a large reverberation.
 
 The question that remains is under whose name that price is written.
 
-In the first chapter of Renard's *Poil de carotte*, someone is needed to go out at night and shut the henhouse door. The brother says he is not there to look after hens, and the sister says she would be too frightened. The mother sends Poil de Carotte. He says that he is frightened too. A big boy like you, the mother answers, and the brother and sister chime in: he isn't afraid of anything. Poil de Carotte crosses the yard trembling, shuts the door, and comes back. The mother says: from now on you will go and shut them every evening. The child who said he was afraid is written down as the child who fears nothing. It is a name given after hearing the child's own words, in the direction that makes the household comfortable.
+In the first chapter of Renard's *Poil de carotte*, someone is needed to go out at night and shut the henhouse door. The brother says he is not there to look after hens, and the sister says she would be too frightened. The mother sends Poil de Carotte. He says that he is frightened too. A big boy like you, the mother answers, and the brother and sister chime in: he isn't afraid of anything. Poil de Carotte crosses the yard trembling, shuts the door, and comes back. He is proud and waits to be praised. The brother and sister go on reading. The mother says: from now on you will go and shut them every evening. The child who said he was afraid is written down as the child who fears nothing. It is a name given in the direction that makes the household comfortable.
 
-The name "sensitive" is often given the same way. The price the household should have paid becomes the child's name, the price the trench should have paid becomes the soldier's name, and the tension the organization should have borne becomes the lightning rod's name. The price is real, and writing that price down as a person's defect is not an observation but an assignment.
+The name "sensitive" is often given the same way. The price the household should have paid becomes the child's name, the price the trench should have paid becomes the soldier's name, and the price the organization should have paid becomes the lightning rod's name. The price is real. Writing that price down as a person's defect is not an observation but an assignment.
 
-The benefit gets names too. Acuity, sensibility, keenness. Those names are also given by the room, and only in a room where the resonance fetches a price. And the two columns are often written under different names. The shut henhouse door becomes the household's, and the fear becomes the child's.
+The benefit gets names too. Acuity, sensibility, keenness. Those names are also given by the room. They are given in a room where sensitivity fetches a price. And the benefit and the price are often written under different names. The shut henhouse door becomes the household's, and the fear becomes the child's. What sensitivity yields becomes the room's, and the pain becomes the instrument's.
 
-Back to the instrument. An instrument that sounds at the brush of a fingertip is hard to handle, needs tuning often, and cannot be left in just any room. Thicken the board and it is easy to handle and gives a blunt sound. Loosen the strings and it is quiet and gives no sound at all. An instrument does not choose what kind of instrument it will be. It does not choose the room it is placed in either. An instrument cannot walk. A person can.
+Back to the instrument. An instrument that sounds at the brush of a fingertip is hard to handle, needs tuning often, and cannot be left in just any room. Thicken the board and it is easy to handle and gives a blunt sound. Loosen the strings and it is quiet and gives no sound at all. An instrument does not choose its own specification. It does not choose the room it is placed in either. An instrument cannot walk. A person can.
 
 ## References
 
