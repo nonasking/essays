@@ -121,7 +121,7 @@ In the first chapter of Renard's *Poil de carotte*, someone is needed to go out 
 
 The name "sensitive" is often given the same way. The price the household should have paid becomes the child's name, the price the trench should have paid becomes the soldier's name, and the tension the organization should have borne becomes the lightning rod's name. The price is real, and writing that price down as a person's defect is not an observation but an assignment.
 
-The benefit gets names too. Acuity, sensibility, talent. Those names are also given by the room, and only in a room where the resonance fetches a price. And the two columns are often written under different names. The shut henhouse door becomes the household's, and the fear becomes the child's.
+The benefit gets names too. Acuity, sensibility, keenness. Those names are also given by the room, and only in a room where the resonance fetches a price. And the two columns are often written under different names. The shut henhouse door becomes the household's, and the fear becomes the child's.
 
 Back to the instrument. An instrument that sounds at the brush of a fingertip is hard to handle, needs tuning often, and cannot be left in just any room. Thicken the board and it is easy to handle and gives a blunt sound. Loosen the strings and it is quiet and gives no sound at all. An instrument does not choose what kind of instrument it will be. It does not choose the room it is placed in either. An instrument cannot walk. A person can.
 
