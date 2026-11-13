@@ -23,7 +23,7 @@ So sensitivity is not a specification of the few but everyone's starting point. 
 
 A distinction survives by one of two roads. The ones kept in use because they gave pleasure survive, and the ones that could not be dropped without getting hurt survive. The discrimination of the gourmet and the discrimination of the alarm.
 
-Distinctions do not only dull. Among the discriminations of the alarm there is a branch that gets honed. A hand that remembers a burn and stays on guard draws back even from what is merely warm. The wound has made the discrimination sharper.
+Distinctions do not only dull. Among the discriminations of the alarm there is a branch that gets honed. A hand that remembers a burn and stays on guard draws back even from what is merely warm.
 
 Whichever road it came by, the pattern has something in common. Whether sensitivity turns out a curse or a blessing, whether others welcome it or shut it out, does not depend on the sensitivity itself.
 
