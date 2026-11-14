@@ -4,6 +4,7 @@
 
 Personal essays, published via GitHub Pages: https://nonasking.github.io/essays/
 
+- **Being** (Korean only). [Korean](https://nonasking.github.io/essays/being/)
 - **Sensitivity** [Korean](https://nonasking.github.io/essays/sensitivity/) / [English](https://nonasking.github.io/essays/sensitivity/en/)
 - **A Hitchhiker's Guide to Talking with Humans, Not LLMs: Blurred Words** (Korean only). [Korean](https://nonasking.github.io/essays/blurred-words/)
 - **Tremor** [Korean](https://nonasking.github.io/essays/tremor/) / [English](https://nonasking.github.io/essays/tremor/en/)
