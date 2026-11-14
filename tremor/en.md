@@ -27,7 +27,7 @@ There is a third way. Holding both. The sentence is written with "and." "Frighte
 
 "And" is only half of it.
 
-Language is linear. Write two and one comes first. In Korean, "I love and I hate" puts love first. In the compound *aejeung*, love-hate, the character for love leads. Love-hate in English does the same. In whatever language, set two words side by side and an order appears, and once there is an order the reader reads the second against the first. What comes first becomes the master, what comes second the servant. "And" was chosen to avoid "but," and word order does the work of "but" anyway.
+Language is linear. Write two and one comes first. In Korean, "I love and I hate" puts love first. In the compound *aejeung*, love-hate, the character for love leads. Love-hate in English does the same. In whatever language, set two words side by side and an order appears, and once there is an order the reader reads the second against the first.
 
 Grammar cannot hold juxtaposition. Then juxtaposition cannot be written in two words. The moment an order appears, it is summation. Juxtaposition can only be written when two are inside one word. A word that writes one thing, not two, and the one is two. Such words are rare.
 
