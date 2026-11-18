@@ -7,7 +7,7 @@ description: 두 존재 사이에는 거리와 줄과 셋째 것이 있다.
 
 # 사이
 
-<small>[nonasking](https://github.com/nonasking) · 2026-11</small>
+<small>[nonasking](https://github.com/nonasking) · 2026-11 · [English version](./en/)</small>
 
 <small>*작성 과정에 AI를 깊이 활용한 글입니다. 정확히 어떻게였는지는 글 끝에 밝혀 두었습니다.*</small>
 
