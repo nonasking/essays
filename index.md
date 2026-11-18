@@ -15,6 +15,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <div class="list-ko" lang="ko" markdown="1">
 
+- **[사이](./between/)** <small>2026-11</small>
 - **[존재](./being/)** <small>2026-11</small>
 - **[예민함](./sensitivity/)** <small>2026-11</small>
 - **[LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 흐린 말](./blurred-words/)** <small>2026-11</small>
@@ -36,6 +37,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <div class="list-en" lang="en" markdown="1">
 
+- **[Between](./between/)** (Korean only) <small>2026-11</small>
 - **[Being](./being/en/)** <small>2026-11</small>
 - **[Sensitivity](./sensitivity/en/)** <small>2026-11</small>
 - **[A Hitchhiker's Guide to Talking with Humans, Not LLMs: Blurred Words](./blurred-words/)** (Korean only) <small>2026-11</small>
