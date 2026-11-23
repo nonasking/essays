@@ -55,11 +55,13 @@ There is one more way to make it quiet. Loosen the strings and it does not sound
 
 ## The senses
 
-Someone is shown a white wall and asked whether it is clean. Ninety-nine say yes, and one says there is a speck over there. Sensitivity sees the small speck first. It smells what has gone off first. It reads the wilting leaf and the signs of a sick animal first.
+Someone is shown a white wall and asked whether it is clean. Ninety-nine say yes, and one says there is a speck over there. Sensitivity sees the small speck first. It notices first the signs that something has gone off. It reads the wilting leaf and the signs of a sick animal first.
 
 The same eye sees other things too. It finds geometry in the veins of a fallen leaf and stops. The ear that hears a note out of place in a celebrated symphony is also the ear that hears harmony in birdsong.
 
 The eye that sees the speck and the eye that sees the grain are the same eye.
+
+An awl pierces the pocket it is kept in. Even when it is not being used. A hammer does not pierce the pocket. An awl goes into a narrow gap; a hammer cannot go into the gap, but it breaks. Neither can do the other's work.
 
 ## The actor
 
