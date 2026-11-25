@@ -4,6 +4,7 @@
 
 Personal essays, published via GitHub Pages: https://nonasking.github.io/essays/
 
+- **The Sieve and the Bowl** [Korean](https://nonasking.github.io/essays/sieve-and-bowl/) / [English](https://nonasking.github.io/essays/sieve-and-bowl/en/)
 - **Between** [Korean](https://nonasking.github.io/essays/between/) / [English](https://nonasking.github.io/essays/between/en/)
 - **Being** [Korean](https://nonasking.github.io/essays/being/) / [English](https://nonasking.github.io/essays/being/en/)
 - **Sensitivity** [Korean](https://nonasking.github.io/essays/sensitivity/) / [English](https://nonasking.github.io/essays/sensitivity/en/)
