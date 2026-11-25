@@ -119,7 +119,7 @@ The part that fetches a price is framed and hung in the room. It is given names 
 
 Plutarch likened the Pythia, who spoke the oracles at Delphi, to an instrument. She should go down, he wrote, only when she is like an instrument well strung and well tuned. The oracles were carried off by those who came to ask. He tells of one occasion. A deputation had come from abroad, and the sacrificial victim gave no sign. The priests poured water on the victim until the sign came. The Pythia went down unwillingly. From her first answers her voice was harsh. She shrieked, ran for the exit, and fell. The deputation fled, and so did the priests. A few days later the Pythia died.
 
-An instrument that sounds at the brush of a fingertip is hard to handle, needs tuning often, and cannot be left in just any room. Thicken the board and it is easy to handle and gives a blunt sound. Loosen the strings and it is quiet and gives no sound at all. An instrument does not choose its own specification. It does not choose the room it is placed in either. An instrument cannot walk. A person can.
+An instrument that sounds at the brush of a fingertip is hard to handle, needs tuning often, and cannot be left in just any room. An instrument does not choose its own specification. It does not choose the room it is placed in either. An instrument cannot walk. A person can.
 
 ## References
 
