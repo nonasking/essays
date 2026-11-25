@@ -23,7 +23,7 @@ So sensitivity is not a specification of the few but everyone's starting point. 
 
 A distinction survives by one of two roads. The ones kept in use because they gave pleasure survive, and the ones that could not be dropped without getting hurt survive. The discrimination of the gourmet and the discrimination of the alarm.
 
-Distinctions do not only dull. Among the discriminations of the alarm there is a branch that gets honed. A hand that remembers a burn and stays on guard draws back even from what is merely warm.
+Distinctions do not only dull. Among alarms there is a branch that gets honed. A hand that remembers a burn and stays on guard draws back even from what is merely warm.
 
 Whichever road it came by, the pattern has something in common. Whether sensitivity turns out a curse or a blessing, whether others welcome it or shut it out, does not depend on the sensitivity itself.
 
@@ -99,7 +99,7 @@ Among the names given in the room, some were names of illness.
 
 Melancholia had two readings. There is an ancient text that asks why all those who became outstanding in philosophy, statecraft, poetry, and the arts are melancholics. Dürer engraved Melancholia as a winged woman, chin on her fist, compasses in hand. All that while melancholia was a disease of the humours, and long afterward it remained a diagnosis. Seeing deeply because of sensitivity and sinking because of it sat under one name. That name was open to both readings, genius and illness. Because the genius reading existed, there was a way for the sinking side, too, to be read as the price of genius.
 
-Hysteria had one reading. Under that name sat paralyses, convulsions, and mutism for which no cause could be found, and emotion in general that had been judged excessive. A hospital in Paris put those patients before a lecture hall every week. Among the doctors came journalists, writers, and actors to watch. In 1980 the name lost its place as a diagnosis in the American classification and was scattered into several other names. Unlike melancholia, inside medicine it had no reading as talent.
+Hysteria had one reading. Under that name sat paralyses, convulsions, and mutism for which no cause could be found, and emotion in general that had been judged excessive. A hospital in Paris put those patients before a lecture hall every week. Among the doctors came journalists, writers, and actors to watch. In 1980 the name lost its place as a diagnosis in the American classification and was scattered into several other names. Unlike melancholia, inside medicine the name was not read as a mark of talent.
 
 The same instrument was priced differently according to the name it was filed under.
 
@@ -129,6 +129,7 @@ An instrument that sounds at the brush of a fingertip is hard to handle, needs t
 - Aron, E. N., & Aron, A. (1997). Sensory-processing sensitivity and its relation to introversion and emotionality. *Journal of Personality and Social Psychology*, 73(2), 345–368.
 - Gubler, D. A., Ertl, M., Janelt, T., Roth, M., & Troche, S. J. (2026). Sensory processing sensitivity (SPS) is not a sensory ability: Examining the relationship of SPS with objectively and subjectively measured sensory sensitivity. *Journal of Research in Personality*, 123, 104730.
 - Evans, D. E., & Rothbart, M. K. (2008). Temperamental sensitivity: Two constructs or one? *Personality and Individual Differences*, 44(1), 108–118.
+- Greven, C. U., Lionetti, F., Booth, C., Aron, E. N., Fox, E., Schendan, H. E., Pluess, M., Bruining, H., Acevedo, B., Bijttebier, P., & Homberg, J. (2019). Sensory Processing Sensitivity in the context of Environmental Sensitivity: A critical review and development of research agenda. *Neuroscience & Biobehavioral Reviews*, 98, 287–305.
 - Pseudo-Aristotle. *Problemata*, XXX.1.
 - Plutarch. *De defectu oraculorum* (Moralia), 50–51.
 - Yu Shinan (虞世南). "Pipa fu" (琵琶賦).

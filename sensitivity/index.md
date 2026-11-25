@@ -23,7 +23,7 @@ description: 손끝만 스쳐도 우는 악기에 대하여. 한 성질에서 �
 
 구별이 남는 데는 두 길이 있다. 즐거워서 계속 쓴 구별이 남고, 놓으면 다쳐서 못 놓은 구별이 남는다. 미식의 변별과 경보의 변별이다.
 
-구별이 둔해지지만은 않는다. 경보의 변별 가운데에는 벼려지는 갈래도 있다. 화상을 기억하고 경계하는 손은 미지근한 온도에도 물러난다.
+구별이 둔해지지만은 않는다. 경보 가운데에는 벼려지는 갈래도 있다. 화상을 기억하고 경계하는 손은 미지근한 온도에도 물러난다.
 
 어느 길로 왔든 양상에는 공통점이 있다. 예민함이 저주일지 축복일지, 다른 이들에게 환대받을지 배제될지는 예민함 자체에 달려 있지 않다.
 
@@ -97,7 +97,7 @@ description: 손끝만 스쳐도 우는 악기에 대하여. 한 성질에서 �
 
 멜랑콜리아에는 독법이 둘 있었다. 철학과 정치와 시와 기예에서 뛰어났던 사람은 왜 모두 멜랑콜리아인가를 묻는 고대의 글이 있다. 뒤러는 멜랑콜리아를 컴퍼스를 든 채 턱을 괸 날개 달린 여인으로 새겼다. 그 내내 멜랑콜리아는 체액의 병이었고 그 뒤로도 오래 진단명이었다. 예민함으로 인해 깊게 보는 것과 가라앉는 것이 한 이름 아래 있었다. 그 이름에는 천재라는 독법과 병이라는 독법이 둘 다 열려 있었다. 천재 쪽 독법이 있었기에 가라앉는 쪽에도 천재의 값으로 읽힐 길이 있었다.
 
-히스테리아에는 독법이 하나였다. 그 이름 아래 있던 것은 원인을 찾지 못한 마비와 경련과 함구, 그리고 과하다고 판정된 감정 전반이었다. 파리의 한 병원은 그 환자들을 매주 강당에 세웠다. 의사들 틈에 기자와 작가와 배우가 구경을 왔다. 1980년에 그 이름은 미국의 진단 분류에서 병명의 자리를 잃고 여러 이름으로 흩어졌다. 멜랑콜리아와 달리 의학 안에서는 재능이라는 독법이 없었다.
+히스테리아에는 독법이 하나였다. 그 이름 아래 있던 것은 원인을 찾지 못한 마비와 경련과 함구, 그리고 과하다고 판정된 감정 전반이었다. 파리의 한 병원은 그 환자들을 매주 강당에 세웠다. 의사들 틈에 기자와 작가와 배우가 구경을 왔다. 1980년에 그 이름은 미국의 진단 분류에서 병명의 자리를 잃고 여러 이름으로 흩어졌다. 멜랑콜리아와 달리 의학 안에서 그 이름이 재능의 표시로 읽히지는 않았다.
 
 같은 악기는 어느 이름 아래로 들어가느냐에 따라 값이 갈렸다.
 
@@ -127,6 +127,7 @@ description: 손끝만 스쳐도 우는 악기에 대하여. 한 성질에서 �
 - Aron, E. N., & Aron, A. (1997). Sensory-processing sensitivity and its relation to introversion and emotionality. *Journal of Personality and Social Psychology*, 73(2), 345–368.
 - Gubler, D. A., Ertl, M., Janelt, T., Roth, M., & Troche, S. J. (2026). Sensory processing sensitivity (SPS) is not a sensory ability: Examining the relationship of SPS with objectively and subjectively measured sensory sensitivity. *Journal of Research in Personality*, 123, 104730.
 - Evans, D. E., & Rothbart, M. K. (2008). Temperamental sensitivity: Two constructs or one? *Personality and Individual Differences*, 44(1), 108–118.
+- Greven, C. U., Lionetti, F., Booth, C., Aron, E. N., Fox, E., Schendan, H. E., Pluess, M., Bruining, H., Acevedo, B., Bijttebier, P., & Homberg, J. (2019). Sensory Processing Sensitivity in the context of Environmental Sensitivity: A critical review and development of research agenda. *Neuroscience & Biobehavioral Reviews*, 98, 287–305.
 - Pseudo-Aristotle. *Problemata*, XXX.1.
 - Plutarch. *De defectu oraculorum* (Moralia), 50–51.
 - 虞世南. 「琵琶賦」.
