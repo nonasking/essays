@@ -75,11 +75,13 @@ Closing and being unable to close can both happen in one tilted sieve.
 
 ## Making
 
-There are ways of sending out what has come in. Among them are ways that make something.
+Among the ways of sending out what has come in, there are ways that make something.
 
 Talk and song send it out. Exercise sends it out through the body and leaves strength and stamina behind. As it sends things out, it makes the bowl itself.
 
 Making things takes what has come in, makes something else of it, and sends that out. It can also wear down the maker's own bowl. The way by which the made thing is born and leaves runs through the bowl. That is the pain of birth (産苦).
+
+Things are also made from what came past unsifted. Their shape differs from that of things made from the sifted.
 
 ## Support
 
