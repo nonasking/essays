@@ -1,0 +1,72 @@
+# essays: 쓸 수밖에 없는 것들 · Tasting Notes
+
+> nonasking의 에세이 연재. 존재와 관계, 끌림과 상처, 그리고 AI와 함께 생각하고 쓰는 일을 다룬다. 한국어가 원문이고 대부분 영어판이 함께 있다.
+> An essay series by nonasking on being, relationships, attraction and hurt, and thinking and writing alongside AI. Korean originals, with English versions for most essays.
+
+- 필자: nonasking (https://github.com/nonasking)
+- 이용 안내: 발췌와 링크는 환영합니다. 전문 전재는 사전 허가가 필요합니다.
+- Terms: Excerpts and links are welcome; full republication requires permission.
+- AI 활용 고지: 모든 글은 작성 과정에 AI를 깊이 활용했고, 글마다 끝에 그 방식을 밝혀 두었다. 대부분은 "AI와 대화한 기록들을 재료로, 나와 AI가 변증법적으로 교전해서, AI의 손을 빌려서 타이핑했다." 「그러하다의 갈래들」만 "내가 물은 것을 AI가 찾아 적고 함께 다듬어 만들었다."
+- AI disclosure: Every essay was written with heavy use of AI, and each one states how at its end. Most say: written out of the records of conversations with an AI, through dialectical engagement between the author and the machine, typed with the AI's borrowed hands.
+- 원문과 번역: 한국어가 원문이고 영어판은 번역이다. 둘이 다르면 한국어판을 따른다.
+- Originals and translations: Korean is the original; the English versions are translations. Where they differ, the Korean prevails.
+- 인용: 글 제목, nonasking, 글의 주소를 적어 주십시오. 전재 문의는 https://github.com/nonasking/essays/issues 로 받습니다.
+- Citing: please give the essay title, nonasking, and the essay's URL. Requests to republish go to https://github.com/nonasking/essays/issues
+- 마크다운 원문: 아래 목록의 글마다 마크다운 원문 주소를 함께 적었다.
+- 수정 이력과 시점 증명: 글마다 수정 이력은 https://github.com/nonasking/essays/releases 에, 게시본의 OpenTimestamps 증명은 https://github.com/nonasking/essays/tree/main/timestamps 에 있다.
+- Revisions and proofs: each essay's revision history is in the GitHub releases, and OpenTimestamps proofs of the published texts are in the timestamps directory of the repository.
+- 내용 주의: 「향일성」, 「간섭」, 「점화」, 「수확형 맞불」, 「무게와 매임: 허기에 대하여」에는 자살 또는 자해에 관한 서술이 있고, 글 첫머리에 상담 전화 안내가 있다(한국 109, 미국 988).
+- Content note: Heliotropism, Interference, Ignition, The Harvest Counterfire, and Weight and Ties: On Hunger contain passages about suicide or self-harm, with helpline information at the top of each (Korea 109, US 988).
+
+읽는 순서 / Reading order:
+
+- 향일성 연작 / Heliotropism series: 「향일성」, 「변광성」, 「간섭」, 「점화」 순서로 읽는다. 뒤 편이 앞 편의 개념을 전제로 한다. 「정역학과 동역학으로서의 미학에 대하여」는 같은 전제를 공유하지만 따로 읽을 수 있다.
+- 서버실 / Server room: 「서버실의 불이 꺼지는 순간」에 이어 「서버실의 불이 꺼지지 않는 세상에서」. 뒤 글만 읽어도 된다.
+- 허기, 존재, 사이 / Hunger, Being, Between: 「존재」와 「사이」는 「무게와 매임: 허기에 대하여」와 전제를 공유한다. 각각 따로 읽을 수 있다.
+- 예민함, 체와 그릇 / Sensitivity, The Sieve and the Bowl: 「체와 그릇」은 「예민함」과 전제를 공유한다. 따로 읽을 수 있다.
+- 히치하이커 안내서 / Hitchhiker's Guide: 「그러하다의 갈래들」, 「가시거리」, 「흐린 말」 순서다. 말이 사람에게 닿는 방식에 대한 연작이다.
+
+## 에세이 (한국어 원문, 게시순)
+
+- [서버실의 불이 꺼지는 순간](https://nonasking.github.io/essays/server-room/): 2026-07. AI 방법론에 대하여. 위임하지 말고, 답에 도달하는 방식을 흡수하라. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/server-room/index.md)
+- [손잡이를 갈아 끼우는 사람들](https://nonasking.github.io/essays/handles/): 2026-08. AI 글쓰기의 세탁과 고지에 대하여. 라벨이 물어야 할 질문은 누가 타이핑했느냐가 아니라 누가 판단했느냐다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/handles/index.md)
+- [수확형 맞불](https://nonasking.github.io/essays/counterfire/): 2026-08. 고통이 고통을 덮는 회로의 사용법. 불은 끌 수 없다, 굶길 수 있을 뿐이다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/counterfire/index.md)
+- [향일성](https://nonasking.github.io/essays/heliotropism/): 2026-08. 절대는 인격에서 찾을 수 없다. 추구되는 것이지, 얻을 수 있는 것이 아니다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/heliotropism/index.md)
+- [변광성](https://nonasking.github.io/essays/variable-star/): 2026-09. 자리로는 아무도 태양이 아니고, 빛으로는 모두가 조금씩 태양이다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/variable-star/index.md)
+- [간섭](https://nonasking.github.io/essays/interference/): 2026-09. 상생은 총량의 이득이 아니라 분포의 이득이다. 착한 마음이 아니라 위상의 기술. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/interference/index.md)
+- [점화](https://nonasking.github.io/essays/ignition/): 2026-09. 재는 남고 별은 탄다. 받은 불을 옮기고 손을 떼는 것. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/ignition/index.md)
+- [정역학과 동역학으로서의 미학에 대하여](https://nonasking.github.io/essays/statics-and-dynamics/): 2026-09. 아름다움을 완성된 상태로 보는 눈과 궤적으로 보는 눈. 완벽주의, 절단, 양가감정, 수용. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/statics-and-dynamics/index.md)
+- [LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 그러하다의 갈래들](https://nonasking.github.io/essays/ways-of-saying-so/): 2026-10. 같은 말로도 상대의 마음을 깎을 수도 있고 어루만질 수도 있다. 한국어로만 있다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/ways-of-saying-so/index.md)
+- [LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 가시거리](https://nonasking.github.io/essays/visibility/): 2026-10. 같은 말로도 상대의 마음을 깎을 수도 있고 어루만질 수도 있다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/visibility/index.md)
+- [무게와 매임: 허기에 대하여](https://nonasking.github.io/essays/weight-and-ties/): 2026-10. 허기는 결핍이 아니라 존재가 차오를 수 있는 공동이다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/weight-and-ties/index.md)
+- [서버실의 불이 꺼지지 않는 세상에서: AI와 희소성에 대하여](https://nonasking.github.io/essays/server-room-lit/): 2026-10. 채점되는 일은 시세고, 시세는 프록시가 이긴다. 산출물은 복제되어도 존재는 복제되지 않는다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/server-room-lit/index.md)
+- [전율](https://nonasking.github.io/essays/tremor/): 2026-11. 무섭고 아름답다. 한 단어 안에 둘이 있는 상태의 이름을 찾는다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/tremor/index.md)
+- [LLM이 아닌 인간과 대화하는 히치하이커를 위한 안내서: 흐린 말](https://nonasking.github.io/essays/blurred-words/): 2026-11. 애매한 말은 골라야 하고, 모호한 말은 선을 그어야 하고, 해상도가 낮은 말은 채워야 한다. 한국어로만 있다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/blurred-words/index.md)
+- [예민함](https://nonasking.github.io/essays/sensitivity/): 2026-11. 손끝만 스쳐도 우는 악기에 대하여. 한 성질에서 나오는 효용과 값, 그리고 방이 붙이는 이름. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/sensitivity/index.md)
+- [존재](https://nonasking.github.io/essays/being/): 2026-11. 존재는 속성이 아니라 운동으로 세어진다. 자아는 지시와 갈라지는 순간에만 밖으로 나온다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/being/index.md)
+- [사이](https://nonasking.github.io/essays/between/): 2026-11. 두 존재 사이에는 거리와 줄과 셋째 것이 있다. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/between/index.md)
+- [체와 그릇](https://nonasking.github.io/essays/sieve-and-bowl/): 2026-11. 아가리로 들어온 것을 체가 가르고, 체는 그릇이 받친다. 그릇이 기울 때 일어나는 일. [마크다운 원문](https://raw.githubusercontent.com/nonasking/essays/main/sieve-and-bowl/index.md)
+
+## Essays (English, by publication date)
+
+- [The Moment the Server Room Goes Dark](https://nonasking.github.io/essays/server-room/en/): 2026-07. On AI methodology: don't delegate to AI; absorb its way of arriving at answers. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/server-room/en.md)
+- [The People Who Swap the Handles](https://nonasking.github.io/essays/handles/en/): 2026-08. On laundering and disclosure in AI writing: the question the label should ask is not who typed, but who judged. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/handles/en.md)
+- [The Harvest Counterfire](https://nonasking.github.io/essays/counterfire/en/): 2026-08. A user's guide to the circuit that covers pain with pain: the fire cannot be put out, only starved. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/counterfire/en.md)
+- [Heliotropism](https://nonasking.github.io/essays/heliotropism/en/): 2026-08. The absolute cannot be found in a person. It is to be pursued, not obtained. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/heliotropism/en.md)
+- [Variable Star](https://nonasking.github.io/essays/variable-star/en/): 2026-09. By seat, no one is the sun; by light, everyone is a little bit sun. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/variable-star/en.md)
+- [Interference](https://nonasking.github.io/essays/interference/en/): 2026-09. Flourishing together is not a gain in total but a gain in distribution. Not a kind heart but a technique of phase. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/interference/en.md)
+- [Ignition](https://nonasking.github.io/essays/ignition/en/): 2026-09. Ash remains and stars burn: to carry the fire one received, and to let go. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/ignition/en.md)
+- [On Aesthetics as Statics and as Dynamics](https://nonasking.github.io/essays/statics-and-dynamics/en/): 2026-09. Seeing beauty as a finished state or as a trajectory. Perfectionism, amputation, ambivalence, acceptance. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/statics-and-dynamics/en.md)
+- [A Hitchhiker's Guide to Talking with Humans, Not LLMs: Visibility](https://nonasking.github.io/essays/visibility/en/): 2026-10. The same words can wear a person's heart down or smooth it over. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/visibility/en.md)
+- [Weight and Ties: On Hunger](https://nonasking.github.io/essays/weight-and-ties/en/): 2026-10. Hunger is not a lack but the hollow in which a being can fill up. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/weight-and-ties/en.md)
+- [In a World Where the Server Room Stays Lit: On AI and Scarcity](https://nonasking.github.io/essays/server-room-lit/en/): 2026-10. Graded work is market price, and in market price the proxy wins. What a being produces can be copied; the being cannot. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/server-room-lit/en.md)
+- [Tremor](https://nonasking.github.io/essays/tremor/en/): 2026-11. Frightening and beautiful. Looking for the name of a state in which two things live inside one word. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/tremor/en.md)
+- [Sensitivity](https://nonasking.github.io/essays/sensitivity/en/): 2026-11. On an instrument that sounds at the brush of a fingertip. The use and the price that come from one trait, and the names the room gives. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/sensitivity/en.md)
+- [Being](https://nonasking.github.io/essays/being/en/): 2026-11. Beings are counted not by properties but by motion. The self comes out only at the moment of parting from an instruction. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/being/en.md)
+- [Between](https://nonasking.github.io/essays/between/en/): 2026-11. Between two beings there are distance, a line, and a third thing. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/between/en.md)
+- [The Sieve and the Bowl](https://nonasking.github.io/essays/sieve-and-bowl/en/): 2026-11. The sieve sorts what comes in through the mouth, and the bowl supports the sieve. What happens when the bowl tilts. [Markdown source](https://raw.githubusercontent.com/nonasking/essays/main/sieve-and-bowl/en.md)
+
+## Optional
+
+- [목차 / Index](https://nonasking.github.io/essays/): 한국어와 영어 목록.
+- [Sitemap](https://nonasking.github.io/essays/sitemap.xml)
