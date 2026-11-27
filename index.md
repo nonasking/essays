@@ -15,6 +15,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <div class="list-ko" lang="ko" markdown="1">
 
+- **[풀어서 돌아오는 길](./the-way-back/)** <small>2026-11</small>
 - **[체와 그릇](./sieve-and-bowl/)** <small>2026-11</small>
 - **[사이](./between/)** <small>2026-11</small>
 - **[존재](./being/)** <small>2026-11</small>
@@ -38,6 +39,7 @@ description: 쓸 수밖에 없는 것들 · Tasting Notes
 
 <div class="list-en" lang="en" markdown="1">
 
+- **[The Way Back by Untying](./the-way-back/)** (Korean only) <small>2026-11</small>
 - **[The Sieve and the Bowl](./sieve-and-bowl/en/)** <small>2026-11</small>
 - **[Between](./between/en/)** <small>2026-11</small>
 - **[Being](./being/en/)** <small>2026-11</small>
