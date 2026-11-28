@@ -11,7 +11,7 @@ description: "On an instrument that sounds at the brush of a fingertip. The use 
 
 <small>*This essay was written with heavy use of AI. Exactly how is disclosed at the end.*</small>
 
-A sensitive person eats bread. They take in its smell, its texture, its shape. "The butter is different from yesterday's. It proofed less than usual. The shaping is finer than yesterday's." All that sensing and reading can be a pleasure. All that sensing and reading can be tiring. The pleasure and the fatigue both arrive before any choosing. What can be chosen comes after. Whether to say it or swallow it. If they say what came to mind in the bakery, they may be told they are being oversensitive and shown the door. They may be thanked for saying so and handed a cookie. The baker's response cannot be chosen.
+A sensitive person eats bread. They take in its smell, its texture, its shape. "The butter is different from yesterday's. It proofed less than usual. The shaping is finer than yesterday's." All that sensing and reading can be a pleasure. All that sensing and reading can be tiring. The pleasure and the fatigue both arrive before any choosing. What can be chosen comes after. Whether to say it or swallow it. If they say what came to mind in the bakery, they may be told they are being oversensitive and shown the door. They may be thanked and handed a cookie. The baker's response cannot be chosen.
 
 A less sensitive person eats bread. "It's bread."
 
