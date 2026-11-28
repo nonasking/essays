@@ -21,6 +21,8 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 이탈은 벗어난 이와 닿은 이 사이의 줄에 매듭을 남긴다. 매듭은 적어서 푼다. 적는 곳이 장부다. 장부는 사람마다 있다. 같은 문장이 여러 장부에 적힐 수 있다.
 
+도덕을 장부로 말하는 것은 오래된 은유다. 재무 장부처럼 도덕의 장부도 맞아야 한다는 생각을 언어학은 도덕적 회계라고 부른다. 그 장부는 둘 사이의 잔고다. 여기서는 사람마다 장부가 있고, 값보다 문장이 먼저 적힌다.
+
 "무언가가 궤도에서 벗어났다."
 
 무언가. 행위이면 행위가 벗어난 것이다. 존재이면 존재가 벗어난 것이다.
@@ -39,6 +41,8 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 매듭을 풀어 돌아오는 것은 정합이다. 궤도는 존재와 별개로 있다. 정합은 사실이다. 정합감은 각 존재가 정합에 대해 갖는 느낌이고, 풀지 않고도 온다.
 
+어긋남과 어긋남의 불편을 가르는 구분은 심리학에도 있다. 인지 부조화다. 다만 그 어긋남은 한 사람의 생각들 사이의 일이고, 정합은 바깥의 사실이다.
+
 ## 문장
 
 「장부」의 문장을 풀어 쓰면 아래와 같다.
@@ -47,9 +51,11 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 위 문장은 모자란 이웃이 많다.
 
-"어떤 행위가 있었다. 그 행위는 궤도를 벗어났다." 주어가 없다.
+"어떤 행위가 있었다. 그 행위는 궤도를 벗어났다." 주어가 없다. 행위자 없는 수동태는 면책의 도구라고 한 심리학자는 적었다.
 
 "내가 그 행위를 했다." 인정이 없다.
+
+앞의 것을 변명, 뒤의 것을 정당화라고 가른 철학자가 있다. 변명은 나빴다는 것은 받고 제 책임은 받지 않는다. 정당화는 제 책임은 받고 나빴다는 것은 받지 않는다.
 
 "나는 궤도를 벗어난 사람이다." 앞뒤가 없다. 이탈이 행위가 아니라 존재에 묶였다. 이걸 받으려면 적은 이의 목을 쥐어야 한다.
 
@@ -60,6 +66,8 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 이탈을 행위에 묶으면 행위를 들면 된다. 행위는 존재와 이어져 있지만 존재 자체는 아니다. 대개 존재를 드는 것보다 가볍다.
 
 이탈을 존재에 묶은 이는 그것을 다루기 위해 존재를 쥐어 들어야 한다. 자기 존재에 묶었을 경우 들 수 없다. 제 목을 쥐어서 들 수 있는 짐승은 없다. 직면은 구조적으로 어렵다.
+
+심리학은 행위에 묶은 것을 죄책, 존재에 묶은 것을 수치라고 부른다. 죄책은 고백과 사과와 수선으로 이어지고, 수치는 부인하고 숨고 벗어나려는 쪽으로 이어진다.
 
 ## 시인
 
@@ -111,6 +119,8 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 시인이나 행위는 종종 사과 없이 제삼자와 이루어진다. 매듭은 풀리지 않고 정합감만 돌아온다. 누락이다.
 
+사람과 사람 사이의 죄는 그 사람을 달래기 전에는 속죄일도 속하지 못한다고 오래된 율법은 적었다.
+
 고해와 대속, 투사는 행위자에게 정합감을 준다. 제삼자의 장부에서 그는 궤도 위에 있다. 정합감은 돌아왔고 정합은 돌아오지 않았다.
 
 누락의 성질은 직면이 있었는지, 어떻게 있었는지로 갈린다. 그의 장부를 열면 보인다.
@@ -118,6 +128,8 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 어떤 이의 장부에는 문장이 적혀 있다. 건네지 못한 미결이다.
 
 어떤 이의 장부에는 문장이 닫혀 있다. 다른 장부에서 치른 것과 상계(相計)했다. 건네더라도 받는 쪽이 할 일이 남아 있지 않다.
+
+가해한 쪽의 서술은 그 일을 닫힌 일로 적고 당한 쪽의 서술은 이어지는 일로 적는다는 연구가 있다.
 
 소설 「벌레 이야기」에서 아이를 유괴당해 잃은 어머니는 범인을 용서하기로 마음먹고 교도소로 면회를 간다. 범인은 잘못을 시인하고 용서를 빈다. 그리고 평온하다. 이미 주님의 용서 속에 마음의 평화를 누리고 있다고 한다. 돌아온 어머니는 말한다. "나는 새삼스레 그를 용서할 수도 없었고, 그럴 필요도 없었지요. 하지만 나보다 누가 먼저 용서합니까. 내가 그를 아직 용서하지 않았는데 어느 누가 나 먼저 그를 용서하느냔 말이에요." 사과는 건네졌다. 받을 자리가 없었다.
 
@@ -135,7 +147,11 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 여럿의 말을 반증하는 것은 한 명의 침묵보다 비싸다.
 
+가해자가 방관자에게 바라는 것은 아무것도 하지 않는 것뿐이고, 피해자는 고통의 짐을 나눠 지라고 청한다고 한 임상가는 적었다.
+
 궤도 위에 그가 있다. 그렇다면 벗어난 것은 내가 아닌가?
+
+악마가 다스리는 세계에 사느니 신이 다스리는 세계의 죄인이 낫다고 한 분석가는 적었다.
 
 아이는 맞기 전에 지었던 표정을 남들 앞에서 짓지 않도록 스스로를 관리한다. 부모가 손을 들어올리면 막거나 맞기 전에 제 표정을 먼저 가다듬는다.
 
@@ -146,6 +162,8 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 대상자의 장부에도 문장이 있다. "그가 어떤 행위를 했다." "그 행위는 궤도를 벗어났다."
 
 행위자가 문장을 건네지 않으면 이 문장을 어떻게 할지는 대상자의 일이다.
+
+학대는 의식에서 차단되어 일어나지 않은 일이 되거나, 축소되고 합리화되어 학대가 아닌 일이 된다고 한 임상가는 적었다. 앞의 것이 부인이고 뒤의 것이 왜곡이다.
 
 ## 부인
 
@@ -173,6 +191,8 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 위 문장들을 고쳐 적은 것으로 만드는 것은 가운데 문장이다. 판정을 뒤집으려고 나중에 끼워 넣었다. 판정이 먼저 있고 까닭이 뒤에 온다.
 
+아이는 어른의 죄책감을 제 안으로 들이고, 제 감각의 증언에 대한 믿음이 깨진다고 한 분석가는 적었다.
+
 재단의 예시로 돌아간다. "쓰다듬은 것뿐인데 내가 과민하게 느껴서 아파했다. 학대가 아니었다." "손이 머리에 부딪힌 것뿐인데 내가 잘못 판단했다. 학대가 아니었다." "옆에 피아노가 쓰러지고 있었다. 쓰러지는 피아노로부터 날 구하기 위함이었다. 학대가 아니었다."
 
 첫째는 자신의 지각을, 둘째는 자신의 판단을 찌른다. 셋째는 판정을 비튼다.
@@ -187,6 +207,8 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 문장이 모순이다. 벗어난 것이 돌아오지 않았는데 정합이 돌아올 수는 없다. 봉합이 주는 정합감은 그 행위의 크기만큼 비어 있다.
 
+상대가 아무것도 하지 않았는데 용서하면 자기 존중이 깎인다는 연구가 있다.
+
 빈 곳이 있는 채로 엉성하게 기워 붙인다. 깨진 것을 쥐면 아프다. 기워 붙여서 쥐면 덜하다.
 
 ## 수용
@@ -197,17 +219,23 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 정합이 깨졌다는 불편함을 쥔다. 깨진 것을 쥐면 아프다. 깨진 채로 둔다.
 
+값싸게 용서하기를 거부하고, 원한은 그 일이 저지른 이에게 도덕의 현실이 되게 하려고 있다고 적은 생존자가 있다.
+
 ## 회로
 
 느낀 것과 판단한 것이 정합감과 부딪힌다. 그 행위 하나만 고쳐 적고 지각과 판단은 그대로 두면 비슷한 일이 되풀이될 때 다시 부딪힌다. 그때는 앞서 닫은 문장까지 다시 열린다.
 
 부인과 왜곡이 정합감을 끝까지 지키려면 느끼고 판단하는 회로 자체를 다시 지어야 한다. 느낌은 숨겨야 하고 판단은 반증하거나 내려놓아야 한다. 검열하는 장치를 붙여 다시 짓는다. 검열의 목적은 사리를 가르는 것이 아니라 묵인하고 없애는 것이다. 목적과 결론은 이미 침묵으로 정해져 있다. 회로가 바뀌면 부딪힐 일이 없어진다. 종의 추를 떼거나 벽에 붙이면 더는 울리지 않는다. 지각과 판단력이 밝을수록 그걸 끄기 위해 더 정교한 장치가 필요하다.
 
+알면 안 되는 것을 알고 느끼면 안 되는 것을 느끼는 일에 대하여. 한 논문의 제목이다.
+
 누군가 손을 들어올린다. 바뀐 회로를 탄다.
 
 맞고 있지 않다. 아프지 않다. 폭력이 아니다.
 
 그 아이의 장부에는 자기가 학대받는다는 문장이 적힐 수 없다.
+
+거듭 당한 이들은 사회의 규칙이 어겨진 것을 알아채는 데서만 오류가 많았다는 실험이 있다.
 
 그 아이를 거쳐 궤도를 벗어나는 이는 이탈을 느끼지 않고 벗어난다.
 
@@ -231,11 +259,26 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 ## 참고 문헌
 
+- Lakoff, G. (1995). Metaphor, morality, and politics, or, why conservatives have left liberals in the dust. *Social Research*, 62(2). 「장부」의 도덕적 회계.
+- Harmon-Jones, E., & Mills, J. (2019). An introduction to cognitive dissonance theory and an overview of current perspectives on the theory. E. Harmon-Jones (편), *Cognitive Dissonance* (2판), 1장. American Psychological Association. 「돌아오는 것」의 불일치와 불편.
+- Bandura, A. (2002). Selective moral disengagement in the exercise of moral agency. *Journal of Moral Education*, 31(2). 「문장」의 행위자 없는 수동태.
+- Austin, J. L. (1956–57). A plea for excuses. *Proceedings of the Aristotelian Society*, 57, 1–30. 「문장」의 변명과 정당화.
+- Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral emotions and moral behavior. *Annual Review of Psychology*, 58, 345–372. 「묶는 자리」의 죄책과 수치.
 - Nelissen, R. M. A. (2012). Guilt-induced self-punishment as a sign of remorse. *Social Psychological and Personality Science*, 3(2), 139–144. 「처벌」의 자기 처벌.
 - Freud, A. (1936). *Das Ich und die Abwehrmechanismen*. 영역 *The Ego and the Mechanisms of Defence* (C. Baines 역, 1937), 「공격자와의 동일시」 장. 「처벌」의 분개.
 - 사무엘하 11~12장(개역개정). 인용은 12:7. 「처벌」의 왕과 예언자.
+- 미쉬나 요마 8:9. 「누락」의 율법.
+- Baumeister, R. F., Stillwell, A., & Wotman, S. R. (1990). Victim and perpetrator accounts of interpersonal conflict: Autobiographical narratives about anger. *Journal of Personality and Social Psychology*, 59(5), 994–1005. 「누락」의 닫힌 서술.
 - 이청준. (1985). 「벌레 이야기」. 『외국문학』 5호(여름호). 인용은 열림원 2002년판(이청준 문학전집 중단편소설 10) 169~170쪽의 표기. 「누락」.
-- Freyd, J. J. (1997). Violations of power, adaptive blindness and betrayal trauma theory. *Feminism & Psychology*, 7(1), 22–32. 「봉쇄」의 DARVO, 「부인」의 알지 않음.
+- Herman, J. L. (1992). *Trauma and Recovery*. Basic Books. 「봉쇄」의 방관자, 그리고 부인과 왜곡을 나란히 적은 문장.
+- Fairbairn, W. R. D. (1943). The repression and the return of bad objects. *British Journal of Medical Psychology*, 19(3–4), 327–341. 「봉쇄」의 죄인.
+- Freyd, J. J. (1997). Violations of power, adaptive blindness and betrayal trauma theory. *Feminism & Psychology*, 7(1), 22–32. 「봉쇄」의 DARVO.
+- Freyd, J. J. (1996). *Betrayal Trauma: The Logic of Forgetting Childhood Abuse*. Harvard University Press. 「부인」의 알지 않음.
+- Ferenczi, S. (1933). Sprachverwirrung zwischen den Erwachsenen und dem Kind. *Internationale Zeitschrift für Psychoanalyse*, 19(1/2). 영역 Confusion of the tongues between the adults and the child, *International Journal of Psycho-Analysis*, 30 (1949), 225–230. 「왜곡」의 내사.
+- Luchies, L. B., Finkel, E. J., McNulty, J. K., & Kumashiro, M. (2010). The doormat effect: When forgiving erodes self-respect and self-concept clarity. *Journal of Personality and Social Psychology*, 98(5), 734–749. 「봉합」의 자기 존중.
+- Améry, J. (1966). *Jenseits von Schuld und Sühne*. 영역 *At the Mind's Limits* (S. Rosenfeld & S. P. Rosenfeld 역, Indiana University Press, 1980), 「Resentments」 장. 「수용」의 원한.
+- Bowlby, J. (1979). On knowing what you are not supposed to know and feeling what you are not supposed to feel. *Canadian Journal of Psychiatry*, 24(5), 403–408. 「회로」의 제목.
+- DePrince, A. P. (2005). Social cognition and revictimization risk. *Journal of Trauma & Dissociation*, 6(1), 125–141. 「회로」의 위반 탐지.
 - 박찬욱(감독). (2005). 〈친절한 금자씨〉. 「매듭」.
 
 <small>*이 글은 AI와 대화한 기록들을 재료로, 나와 AI가 변증법적으로 교전해서, AI의 손을 빌려서 타이핑했다.*</small>
