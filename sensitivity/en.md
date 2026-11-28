@@ -115,7 +115,7 @@ Measurement has also split sensitivity in two. The side that notices subtle thin
 
 Sensitivity comes with a price. The instrument that sounds at a fingertip sounds at the wind too. A long life is heavy. A large amplitude leaves a large reverberation. Beside a blade with no house, the pocket is pierced. Flesh that passes across a thin, taut string is cut by the string.
 
-The part that fetches a price is framed and hung in the room. It is given names such as acuity, sensibility, keenness.
+The part that fetches a price is framed and hung in the room. It is given names such as acuity, sensibility, keenness, delicacy.
 
 Plutarch likened the Pythia, who spoke the oracles at Delphi, to an instrument. She should go down, he wrote, only when she is like an instrument well strung and well tuned. The oracles were carried off by those who came to ask. He tells of one occasion. A deputation had come from abroad, and the sacrificial victim gave no sign. The priests poured water on the victim until the sign came. The Pythia went down unwillingly. From her first answers her voice was harsh. She shrieked, ran for the exit, and fell. The deputation fled, and so did the priests. A few days later the Pythia died.
 
