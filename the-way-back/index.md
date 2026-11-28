@@ -33,15 +33,15 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 ## 돌아오는 것
 
-궤도를 전제로 가진 이에게 그 길은 있던 길이다. 궤도 위의 존재는 있던 길이 익숙하다. 익숙함은 흔히 편안함으로 번역된다. 정합감이다.
+우주선에는 떠나기 전에 정해 둔 궤도가 있다. 우주선이 어디에 있든 그 궤도는 그대로 있다. 그 위에 있는지는 밖에서 잰다. 땅에서 쫓으며 적는다. 정합은 그렇게 적히는 사실이다.
 
-이탈은 불편하다. 있던 길로 돌아가려는 관성이 존재를 길로 돌리는 복원력이다. 돌아가면 정합감을 되찾는다.
+안에는 가속도계가 있다. 가속도계는 엔진을 켤 때와 무언가에 부딪힐 때만 움직인다. 중력을 따라 떨어지는 동안에는 0을 가리킨다. 정해 둔 궤도 위에서도, 벗어난 길 위에서도, 영영 떠나는 길 위에서도 안은 똑같이 고요하다. 이 고요가 정합감이다.
 
-이탈은 벗어난 이만 흔들지 않는다. 그 행위가 닿은 이의 정합감도 앗아간다.
+궤도를 바꾸는 순간은 느껴진다. 엔진을 켠 쪽의 가속도계가 움직이고, 부딪힌 쪽의 가속도계가 움직인다. 이탈은 벗어난 이만 흔들지 않는다. 엔진이 꺼지면 바늘은 0으로 돌아간다. 벗어난 길 위에서 고요하다. 그 길도 오래 가면 있던 길이 된다.
 
-매듭을 풀어 돌아오는 것은 정합이다. 궤도는 존재와 별개로 있다. 정합은 사실이다. 정합감은 각 존재가 정합에 대해 갖는 느낌이고, 풀지 않고도 온다.
+정합감은 풀지 않고도 온다. 정합은 그렇지 않다. 돌아오려면 엔진을 다시 켜야 하고, 그 순간은 다시 느껴진다. 매듭을 풀어 돌아오는 것은 정합이다.
 
-어긋남과 어긋남의 불편을 가르는 구분은 심리학에도 있다. 인지 부조화다. 다만 그 어긋남은 한 사람의 생각들 사이의 일이고, 정합은 바깥의 사실이다.
+고요를 흔드는 것은 느낌이 아니라 기록이다. 바늘은 0으로 돌아갔어도 움직였던 순간은 장부에 적혀 있다. 고요와 문장이 어긋난다. 어긋남을 없애는 길은 둘이다. 궤도를 바로잡거나, 문장을 고치거나.
 
 ## 문장
 
@@ -129,8 +129,6 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 어떤 이의 장부에는 문장이 닫혀 있다. 다른 장부에서 치른 것과 상계(相計)했다. 건네더라도 받는 쪽이 할 일이 남아 있지 않다.
 
-가해한 쪽의 서술은 그 일을 닫힌 일로 적고 당한 쪽의 서술은 이어지는 일로 적는다는 연구가 있다.
-
 소설 「벌레 이야기」에서 아이를 유괴당해 잃은 어머니는 범인을 용서하기로 마음먹고 교도소로 면회를 간다. 범인은 잘못을 시인하고 용서를 빈다. 그리고 평온하다. 이미 주님의 용서 속에 마음의 평화를 누리고 있다고 한다. 돌아온 어머니는 말한다. "나는 새삼스레 그를 용서할 수도 없었고, 그럴 필요도 없었지요. 하지만 나보다 누가 먼저 용서합니까. 내가 그를 아직 용서하지 않았는데 어느 누가 나 먼저 그를 용서하느냔 말이에요." 사과는 건네졌다. 받을 자리가 없었다.
 
 어떤 이의 장부에는 문장이 없다. 다른 장부에 그 이탈이 적힌 문장은 그가 궤도에 있다는 것의 반증이다. 정합감을 흔드는 불안 요소다. 문장을 지우면 정합감이 지켜진다.
@@ -156,6 +154,8 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 아이는 맞기 전에 지었던 표정을 남들 앞에서 짓지 않도록 스스로를 관리한다. 부모가 손을 들어올리면 막거나 맞기 전에 제 표정을 먼저 가다듬는다.
 
 대상자가 지목한다. 행위자는 부인하고, 공격하고, 둘의 자리를 바꾼다. 이 현상에는 머리글자를 딴 이름이 있다(DARVO: Deny, Attack, and Reverse Victim and Offender). 지목한 눈이 찔린다.
+
+자리는 바꿀 수 있다. 누가 누구에게 다가갔는가는 보는 자리에 달렸다. 누가 엔진을 켰는가는 그렇지 않다. 가속도계가 안다. 다만 가속도계는 그 순간에만 움직인다. 적어 두지 않은 순간은 나중에 물을 곳이 없다.
 
 그런 일을 겪을수록 대상자는 지목보다 눈을 감는 게 덜 다친다는 것을 배운다. 입을 다물면 찔리지 않는다. 제대로 봤지만 입이 막혔다는 것보다 잘못 봤다는 것이 받아들이기 편하다.
 
@@ -207,8 +207,6 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 문장이 모순이다. 벗어난 것이 돌아오지 않았는데 정합이 돌아올 수는 없다. 봉합이 주는 정합감은 그 행위의 크기만큼 비어 있다.
 
-상대가 아무것도 하지 않았는데 용서하면 자기 존중이 깎인다는 연구가 있다.
-
 빈 곳이 있는 채로 엉성하게 기워 붙인다. 깨진 것을 쥐면 아프다. 기워 붙여서 쥐면 덜하다.
 
 ## 수용
@@ -225,9 +223,7 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 
 느낀 것과 판단한 것이 정합감과 부딪힌다. 그 행위 하나만 고쳐 적고 지각과 판단은 그대로 두면 비슷한 일이 되풀이될 때 다시 부딪힌다. 그때는 앞서 닫은 문장까지 다시 열린다.
 
-부인과 왜곡이 정합감을 끝까지 지키려면 느끼고 판단하는 회로 자체를 다시 지어야 한다. 느낌은 숨겨야 하고 판단은 반증하거나 내려놓아야 한다. 검열하는 장치를 붙여 다시 짓는다. 검열의 목적은 사리를 가르는 것이 아니라 묵인하고 없애는 것이다. 목적과 결론은 이미 침묵으로 정해져 있다. 회로가 바뀌면 부딪힐 일이 없어진다. 종의 추를 떼거나 벽에 붙이면 더는 울리지 않는다. 지각과 판단력이 밝을수록 그걸 끄기 위해 더 정교한 장치가 필요하다.
-
-알면 안 되는 것을 알고 느끼면 안 되는 것을 느끼는 일에 대하여. 한 논문의 제목이다.
+부인과 왜곡이 정합감을 끝까지 지키려면 느끼고 판단하는 회로 자체를 다시 지어야 한다. 느낌은 숨겨야 하고 판단은 반증하거나 내려놓아야 한다. 검열하는 장치를 붙여 다시 짓는다. 검열의 목적은 사리를 가르는 것이 아니라 묵인하고 없애는 것이다. 목적과 결론은 이미 침묵으로 정해져 있다. 회로가 바뀌면 부딪힐 일이 없어진다. 가속도계는 용수철에 매단 추다. 추를 떼거나 벽에 붙이면 바늘은 더는 움직이지 않는다. 지각과 판단력이 밝을수록 그걸 끄기 위해 더 정교한 장치가 필요하다.
 
 누군가 손을 들어올린다. 바뀐 회로를 탄다.
 
@@ -260,7 +256,8 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 ## 참고 문헌
 
 - Lakoff, G. (1995). Metaphor, morality, and politics, or, why conservatives have left liberals in the dust. *Social Research*, 62(2). 「장부」의 도덕적 회계.
-- Harmon-Jones, E., & Mills, J. (2019). An introduction to cognitive dissonance theory and an overview of current perspectives on the theory. E. Harmon-Jones (편), *Cognitive Dissonance* (2판), 1장. American Psychological Association. 「돌아오는 것」의 불일치와 불편.
+- NASA Glenn Research Center. What is microgravity? https://www.nasa.gov/centers-and-facilities/glenn/what-is-microgravity/ 「돌아오는 것」의 자유낙하와 가속도계.
+- NASA. Basics of Space Flight, Chapter 13: Navigation. https://science.nasa.gov/learn/basics-of-space-flight/chapter13-1/ 「돌아오는 것」의 정해 둔 궤도와 밖에서 재는 일.
 - Bandura, A. (2002). Selective moral disengagement in the exercise of moral agency. *Journal of Moral Education*, 31(2). 「문장」의 행위자 없는 수동태.
 - Austin, J. L. (1956–57). A plea for excuses. *Proceedings of the Aristotelian Society*, 57, 1–30. 「문장」의 변명과 정당화.
 - Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral emotions and moral behavior. *Annual Review of Psychology*, 58, 345–372. 「묶는 자리」의 죄책과 수치.
@@ -268,16 +265,13 @@ description: 궤도를 벗어난 것이 돌아오는 길. 풀어서 돌아오면
 - Freud, A. (1936). *Das Ich und die Abwehrmechanismen*. 영역 *The Ego and the Mechanisms of Defence* (C. Baines 역, 1937), 「공격자와의 동일시」 장. 「처벌」의 분개.
 - 사무엘하 11~12장(개역개정). 인용은 12:7. 「처벌」의 왕과 예언자.
 - 미쉬나 요마 8:9. 「누락」의 율법.
-- Baumeister, R. F., Stillwell, A., & Wotman, S. R. (1990). Victim and perpetrator accounts of interpersonal conflict: Autobiographical narratives about anger. *Journal of Personality and Social Psychology*, 59(5), 994–1005. 「누락」의 닫힌 서술.
 - 이청준. (1985). 「벌레 이야기」. 『외국문학』 5호(여름호). 인용은 열림원 2002년판(이청준 문학전집 중단편소설 10) 169~170쪽의 표기. 「누락」.
 - Herman, J. L. (1992). *Trauma and Recovery*. Basic Books. 「봉쇄」의 방관자, 그리고 부인과 왜곡을 나란히 적은 문장.
 - Fairbairn, W. R. D. (1943). The repression and the return of bad objects. *British Journal of Medical Psychology*, 19(3–4), 327–341. 「봉쇄」의 죄인.
 - Freyd, J. J. (1997). Violations of power, adaptive blindness and betrayal trauma theory. *Feminism & Psychology*, 7(1), 22–32. 「봉쇄」의 DARVO.
 - Freyd, J. J. (1996). *Betrayal Trauma: The Logic of Forgetting Childhood Abuse*. Harvard University Press. 「부인」의 알지 않음.
 - Ferenczi, S. (1933). Sprachverwirrung zwischen den Erwachsenen und dem Kind. *Internationale Zeitschrift für Psychoanalyse*, 19(1/2). 영역 Confusion of the tongues between the adults and the child, *International Journal of Psycho-Analysis*, 30 (1949), 225–230. 「왜곡」의 내사.
-- Luchies, L. B., Finkel, E. J., McNulty, J. K., & Kumashiro, M. (2010). The doormat effect: When forgiving erodes self-respect and self-concept clarity. *Journal of Personality and Social Psychology*, 98(5), 734–749. 「봉합」의 자기 존중.
 - Améry, J. (1966). *Jenseits von Schuld und Sühne*. 영역 *At the Mind's Limits* (S. Rosenfeld & S. P. Rosenfeld 역, Indiana University Press, 1980), 「Resentments」 장. 「수용」의 원한.
-- Bowlby, J. (1979). On knowing what you are not supposed to know and feeling what you are not supposed to feel. *Canadian Journal of Psychiatry*, 24(5), 403–408. 「회로」의 제목.
 - DePrince, A. P. (2005). Social cognition and revictimization risk. *Journal of Trauma & Dissociation*, 6(1), 125–141. 「회로」의 위반 탐지.
 - 박찬욱(감독). (2005). 〈친절한 금자씨〉. 「매듭」.
 
